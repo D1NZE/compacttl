@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-22T19:37:28.723Z",
+  "updatedAt": "2026-04-22T19:58:55.026Z",
   "players": [
     {
       "userId": "1164936631908835351",
@@ -22,6 +22,17 @@ window.TIERLIST_PLAYERS = {
       "source": "Tested",
       "updatedAt": "2026-04-22T19:12:02.442Z",
       "userId": "1361510979975905322"
+    },
+    {
+      "username": "spookys____45497",
+      "displayName": "Spooky",
+      "ign": "SPOOKYS_",
+      "tier": "LT3",
+      "previousTier": "Set Manually",
+      "region": "NA",
+      "source": "Set Manually",
+      "updatedAt": "2026-04-22T19:58:55.025Z",
+      "userId": "1489915532034445442"
     },
     {
       "username": "nolimitblock_28207",
