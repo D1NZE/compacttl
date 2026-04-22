@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-22T18:51:22.631Z",
+  "updatedAt": "2026-04-22T19:00:01.473Z",
   "players": [
     {
       "userId": "1164936631908835351",
@@ -16,11 +16,11 @@ window.TIERLIST_PLAYERS = {
       "username": "zxny77",
       "displayName": "Zxny77",
       "ign": "Zxny77",
-      "tier": "LT3",
-      "previousTier": "Unranked",
+      "tier": "HT3",
+      "previousTier": "Migrated",
       "region": "N/A",
-      "source": "Tested",
-      "updatedAt": "2026-04-22T17:51:04.750Z",
+      "source": "Crystal ranked",
+      "updatedAt": "2026-04-22T19:00:01.471Z",
       "userId": "1361510979975905322"
     },
     {
