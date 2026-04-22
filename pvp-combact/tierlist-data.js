@@ -1,16 +1,16 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-22T19:58:55.026Z",
+  "updatedAt": "2026-04-22T19:59:21.389Z",
   "players": [
     {
       "userId": "1164936631908835351",
       "username": "d1nzee",
       "displayName": "D1NZE",
       "ign": "D1NZE",
-      "tier": "LT2",
-      "previousTier": "HT3",
+      "tier": "HT3",
+      "previousTier": "LT2",
       "region": "EU",
       "source": "Set Manually",
-      "updatedAt": "2026-04-22T19:37:28.721Z"
+      "updatedAt": "2026-04-22T19:59:21.375Z"
     },
     {
       "username": "zxny77",
