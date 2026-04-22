@@ -1,17 +1,6 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-22T19:00:01.473Z",
+  "updatedAt": "2026-04-22T19:07:50.990Z",
   "players": [
-    {
-      "userId": "1164936631908835351",
-      "username": "d1nzee",
-      "displayName": "D1NZE",
-      "ign": "D1NZE",
-      "tier": "LT2",
-      "previousTier": "Unranked",
-      "region": "EU",
-      "source": "Tested",
-      "updatedAt": "2026-04-22T18:51:22.630Z"
-    },
     {
       "username": "zxny77",
       "displayName": "Zxny77",
@@ -22,6 +11,17 @@ window.TIERLIST_PLAYERS = {
       "source": "Crystal ranked",
       "updatedAt": "2026-04-22T19:00:01.471Z",
       "userId": "1361510979975905322"
+    },
+    {
+      "userId": "1164936631908835351",
+      "username": "d1nzee",
+      "displayName": "D1NZE",
+      "ign": "D1NZE",
+      "tier": "LT3",
+      "previousTier": "Migrated",
+      "region": "EU",
+      "source": "Lurnss Tierlist",
+      "updatedAt": "2026-04-22T19:07:50.989Z"
     },
     {
       "username": "nolimitblock_28207",
