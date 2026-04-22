@@ -1,0 +1,307 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Vanilla-compact Tierlist</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="animated-bg" aria-hidden="true">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+
+    <header class="topbar">
+      <a class="brand" href="#top" aria-label="Vanilla-compact Tierlist">
+        <span class="brand-mark">VC</span>
+        <span>Vanilla-compact</span>
+      </a>
+      <nav class="nav" aria-label="Main navigation">
+        <a href="#top">Home</a>
+        <a href="#rankings">Rankings</a>
+        <a href="#info" id="infoNav">Info</a>
+      </nav>
+      <div class="server-ip">
+        <span>Server IP</span>
+        <strong>VANILLACOMPACT.XYZ</strong>
+      </div>
+    </header>
+
+    <main id="top" class="shell">
+      <section class="content">
+        <section class="hero">
+          <div>
+            <p class="eyebrow">Crystal PvP Rankings</p>
+            <h1 id="heroTitle">Crystal Leaderboard</h1>
+            <p class="lede" id="heroLede">
+              Player placements, migrated ranks, regions, and high-test movement for Vanilla-compact.
+            </p>
+            <div class="hero-meta">
+              <span id="lastUpdated">Last updated: loading</span>
+              <span id="activeView">Crystal view</span>
+            </div>
+          </div>
+          <div class="stats">
+            <article>
+              <strong>10</strong>
+              <span>Tiers</span>
+            </article>
+            <article>
+              <strong>4</strong>
+              <span>Tracked Sources</span>
+            </article>
+            <article>
+              <strong id="discordCount">...</strong>
+              <span>Discord Stats</span>
+            </article>
+            <article>
+              <strong>LT3+</strong>
+              <span>High Test</span>
+            </article>
+          </div>
+        </section>
+
+        <section class="mode-strip" aria-label="Game mode selector">
+          <button class="mode" type="button" data-mode="Overall"><span>&#127942;</span> Overall</button>
+          <button class="mode active crystal-mode" type="button" data-mode="Crystal"><img class="mode-icon" src="img_3.png" alt=""> Crystal</button>
+          <button class="mode database-mode" type="button" data-mode="Database"><span>&#128200;</span> Database</button>
+        </section>
+
+        <section class="crystal-menu" id="crystalMenu" aria-label="Crystal tier board">
+          <div class="crystal-board" id="tierBuckets"></div>
+          <div class="crystal-info">
+            <p class="eyebrow">Crystal Leaderboard</p>
+            <h2>How the leaderboard works</h2>
+            <p>
+              Players are sorted by their latest tracked Crystal result. Staff results from <strong>/close</strong>,
+              high-test results from <strong>/highclose</strong>, and migrations from <strong>/miragrate</strong> update
+              the player tier automatically.
+            </p>
+            <p>
+              Each tier column groups high and low placements from HT1/LT1 down to HT5/LT5. Click a player row to view
+              their Discord ID, current tier, and region.
+            </p>
+            <p>
+              Regions are kept separate for queue organization, but placements stay on the same Crystal board. If a
+              player retests or receives a higher result, the newest staff-submitted result replaces the older one.
+            </p>
+            <p>
+              HT results show stronger performance inside that tier number, while LT results show the lower side of the
+              same tier number. Movement is based on testing results, not manual leaderboard edits.
+            </p>
+          </div>
+        </section>
+
+        <section class="database-panel" id="databasePanel" aria-label="Database statistics" hidden>
+          <div class="database-hero">
+            <p class="eyebrow">Server Database</p>
+            <h2>VanillaCompact Stats</h2>
+          </div>
+          <div class="database-stats">
+            <article>
+              <strong id="dbDiscordOnline">...</strong>
+              <span>Discord Online</span>
+            </article>
+            <article>
+              <strong id="dbTestedPlayers">0</strong>
+              <span>Tested Players</span>
+            </article>
+            <article>
+              <strong id="dbTopRegion">N/A</strong>
+              <span>Top Region</span>
+            </article>
+            <article>
+              <strong id="dbTopTier">N/A</strong>
+              <span>Most Common Tier</span>
+            </article>
+            <article>
+              <strong id="dbTotalPoints">0</strong>
+              <span>Total Points</span>
+            </article>
+          </div>
+          <div class="chart-grid">
+            <article class="chart-card">
+              <h3>Region Split</h3>
+              <div id="regionChart" class="bar-chart"></div>
+            </article>
+            <article class="chart-card">
+              <h3>Tier Spread</h3>
+              <div id="tierChart" class="bar-chart"></div>
+            </article>
+            <article class="chart-card">
+              <h3>Result Sources</h3>
+              <div id="sourceChart" class="bar-chart"></div>
+            </article>
+          </div>
+          <div class="database-info">
+            <p class="eyebrow">Database Information</p>
+            <h2>What these stats show</h2>
+            <p>
+              The database uses the same tracked player data as the leaderboard. Tested players are counted from saved
+              results, region charts use each player verification region, and tier spread shows the current placement
+              distribution across HT/LT tiers.
+            </p>
+            <p>
+              Discord online stats come from server <strong>1463712180728762429</strong> when the Discord widget is
+              available. If Discord does not return live data, the panel shows N/A instead of guessing.
+            </p>
+            <p>
+              Region split helps staff see where players are coming from. Tier spread shows how many players are placed
+              in every rank, and result sources show whether entries came from testing, high testing, migration, or
+              fallback data.
+            </p>
+            <p>
+              These numbers are meant to give a quick overview of the community, not replace the leaderboard itself.
+              Click Overall or Crystal when you want to inspect individual player placements.
+            </p>
+            <div class="points-grid">
+              <span>LT5 <strong>2</strong></span>
+              <span>HT5 <strong>4</strong></span>
+              <span>LT4 <strong>8</strong></span>
+              <span>HT4 <strong>14</strong></span>
+              <span>LT3 <strong>20</strong></span>
+              <span>HT3 <strong>30</strong></span>
+              <span>LT2 <strong>45</strong></span>
+              <span>HT2 <strong>65</strong></span>
+              <span>LT1 <strong>100</strong></span>
+              <span>HT1 <strong>150</strong></span>
+            </div>
+          </div>
+        </section>
+
+        <section class="filters" id="filtersPanel" aria-label="Ranking filters" hidden>
+          <div class="filter-group" aria-label="Region filter">
+            <button class="filter active" type="button" data-filter="all">All</button>
+            <button class="filter" type="button" data-filter="NA">NA</button>
+            <button class="filter" type="button" data-filter="EU">EU</button>
+            <button class="filter" type="button" data-filter="AS">AS</button>
+            <button class="filter points-info-button" id="pointsInfoButton" type="button">Points Info</button>
+          </div>
+          <div class="points-info-popover" id="pointsInfoPopover" hidden>
+            <strong>Combat Rank Points</strong>
+            <span>Rookie = 2-4 points</span>
+            <span>Standart = 4-8 points</span>
+            <span>Combat Nocive = 14-20 points</span>
+            <span>Combat PvP = 30-45 points</span>
+            <span>Combat Ace = 65-100 points</span>
+            <span>Combat Master = 150 points</span>
+          </div>
+          <a class="discord-button small" href="https://discord.gg/Y6YCTRPPak" target="_blank" rel="noreferrer">Join Discord</a>
+          <label class="search">
+            <span>Search</span>
+            <input id="playerSearch" type="search" placeholder="Search username">
+          </label>
+          <div class="search-popover" id="searchPopover" hidden></div>
+        </section>
+
+        <section id="rankings" class="rankings" aria-label="Player rankings" hidden>
+          <div class="ranking-head">
+            <span>#</span>
+            <span>Player</span>
+            <span>Region</span>
+            <span>Tier</span>
+            <span>Points</span>
+            <span>Source</span>
+            <span>Updated</span>
+          </div>
+          <div id="rankingRows"></div>
+          <p class="empty-state" id="emptyState" hidden>No matching players found.</p>
+          <div class="overall-info">
+            <p class="eyebrow">Tier Information</p>
+            <h2>How tiers work</h2>
+            <p>
+              Overall ranks are ordered from HT1 as the highest placement down through LT5. HT means high tier and LT
+              means low tier inside the same number group, so HT3 is above LT3 and LT3 is above HT4.
+            </p>
+            <p>
+              Players update when staff closes a test, closes a high-test ticket, or migrates a result from another
+              tierlist. Search can find players by Minecraft name, Discord ID, tier, region, or result source.
+            </p>
+            <p>
+              A normal test can place or update a player in the tracked tiers. High tests are for players who already
+              qualify for higher movement, starting from LT3+ and continuing toward HT1.
+            </p>
+            <p>
+              Migrated results keep the player visible on the same leaderboard while showing that the placement came
+              from another server or tierlist source. Retests can overwrite migrated placements when staff records a new
+              Vanilla-compact result.
+            </p>
+            <div class="points-grid">
+              <span>2-4 <strong>Rookie</strong></span>
+              <span>4-8 <strong>Standart</strong></span>
+              <span>14-20 <strong>Combat Nocive</strong></span>
+              <span>30-45 <strong>Combat PvP</strong></span>
+              <span>65-100 <strong>Combat Ace</strong></span>
+              <span>150 <strong>Combat Master</strong></span>
+            </div>
+          </div>
+        </section>
+
+      </section>
+    </main>
+
+    <dialog class="player-dialog" id="playerDialog" aria-labelledby="dialogName">
+      <button class="dialog-close" type="button" aria-label="Close player details">x</button>
+      <div class="dialog-player">
+        <img id="dialogSkin" class="dialog-skin" src="" alt="">
+        <div>
+          <p class="eyebrow">Player Details</p>
+          <h2 id="dialogName">Player</h2>
+        </div>
+      </div>
+      <dl class="detail-list">
+        <div>
+          <dt>Discord ID</dt>
+          <dd id="dialogDiscordId">N/A</dd>
+        </div>
+        <div>
+          <dt>Tier</dt>
+          <dd id="dialogTier">N/A</dd>
+        </div>
+        <div>
+          <dt>Points</dt>
+          <dd id="dialogPoints">N/A</dd>
+        </div>
+        <div>
+          <dt>Combat Rank</dt>
+          <dd id="dialogCombatRank">N/A</dd>
+        </div>
+        <div>
+          <dt>Region</dt>
+          <dd id="dialogRegion">N/A</dd>
+        </div>
+        <div>
+          <dt>Source</dt>
+          <dd id="dialogSource">N/A</dd>
+        </div>
+      </dl>
+    </dialog>
+
+    <dialog class="player-dialog info-dialog" id="infoDialog" aria-labelledby="infoDialogTitle">
+      <button class="dialog-close" id="infoClose" type="button" aria-label="Close info">x</button>
+      <div class="dialog-player">
+        <div>
+          <p class="eyebrow">Vanilla-compact</p>
+          <h2 id="infoDialogTitle">Tierlist Information</h2>
+        </div>
+      </div>
+      <div class="info-dialog-body">
+        <p>
+          Our Discord server is the center of Vanilla-compact. The tierlist is built around fair Crystal PvP tests,
+          clear results, and a fair community where players can improve without drama.
+        </p>
+        <p>
+          Staff test based on skill, not favoritism. If you join the waitlist, wait patiently for a tester in your
+          region. When staff closes or migrates a result, the selected tier is saved to this website and the player
+          profile updates automatically.
+        </p>
+        <a class="discord-button" href="https://discord.gg/Y6YCTRPPak" target="_blank" rel="noreferrer">Join Discord</a>
+      </div>
+    </dialog>
+
+    <script src="tierlist-data.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
