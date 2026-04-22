@@ -1,6 +1,17 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-22T22:47:04.531Z",
+  "updatedAt": "2026-04-22T23:03:06.442Z",
   "players": [
+    {
+      "username": "applepvp.com",
+      "displayName": "Alt",
+      "ign": "Furriers",
+      "tier": "HT2",
+      "previousTier": "Migrated",
+      "region": "NA",
+      "source": "Crystal ranked",
+      "updatedAt": "2026-04-22T23:03:06.440Z",
+      "userId": "1491966256406855700"
+    },
     {
       "userId": "1164936631908835351",
       "username": "d1nzee",
