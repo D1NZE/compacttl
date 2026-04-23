@@ -1,17 +1,6 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-23T18:32:20.514Z",
+  "updatedAt": "2026-04-23T18:33:45.686Z",
   "players": [
-    {
-      "userId": "1164936631908835351",
-      "username": "d1nzee",
-      "displayName": "D1NZE",
-      "ign": "D1NZE",
-      "tier": "HT2",
-      "previousTier": "HT2",
-      "region": "EU",
-      "source": "Tested",
-      "updatedAt": "2026-04-23T18:32:20.481Z"
-    },
     {
       "username": "applepvp.com",
       "displayName": "Alt",
@@ -22,6 +11,17 @@ window.TIERLIST_PLAYERS = {
       "source": "Crystal ranked",
       "updatedAt": "2026-04-22T23:03:06.440Z",
       "userId": "1491966256406855700"
+    },
+    {
+      "userId": "1164936631908835351",
+      "username": "d1nzee",
+      "displayName": "D1NZE",
+      "ign": "D1NZE",
+      "tier": "HT3",
+      "previousTier": "HT2",
+      "region": "EU",
+      "source": "Tested",
+      "updatedAt": "2026-04-23T18:33:45.684Z"
     },
     {
       "username": "zxny77",
