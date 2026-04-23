@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-23T18:34:50.740Z",
+  "updatedAt": "2026-04-23T18:35:22.509Z",
   "players": [
     {
       "username": "applepvp.com",
@@ -72,10 +72,10 @@ window.TIERLIST_PLAYERS = {
       "displayName": "ChrisGamingYTT",
       "ign": "ChrisGamingYTT",
       "tier": "Unranked",
-      "previousTier": "HT4",
+      "previousTier": "Unranked",
       "region": "EU",
       "source": "Tested",
-      "updatedAt": "2026-04-23T18:34:50.739Z",
+      "updatedAt": "2026-04-23T18:35:22.506Z",
       "userId": "1191419401245827204"
     }
   ]
