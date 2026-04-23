@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-23T18:24:36.730Z",
+  "updatedAt": "2026-04-23T18:32:20.514Z",
   "players": [
     {
       "userId": "1164936631908835351",
@@ -7,10 +7,10 @@ window.TIERLIST_PLAYERS = {
       "displayName": "D1NZE",
       "ign": "D1NZE",
       "tier": "HT2",
-      "previousTier": "HT3",
+      "previousTier": "HT2",
       "region": "EU",
       "source": "Tested",
-      "updatedAt": "2026-04-23T18:24:36.728Z"
+      "updatedAt": "2026-04-23T18:32:20.481Z"
     },
     {
       "username": "applepvp.com",
