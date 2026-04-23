@@ -1,93 +1,93 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-23T20:33:31.811Z",
+  "updatedAt": "2026-04-23T20:43:12.919Z",
   "players": [
     {
-      "userId": "1164936631908835351",
-      "username": "d1nzee",
-      "displayName": "D1NZE",
       "ign": "D1NZE",
       "tier": "HT3",
-      "previousTier": "HT2",
       "region": "EU",
       "source": "Tested",
-      "updatedAt": "2026-04-23T20:02:53.783Z"
+      "userId": "1164936631908835351",
+      "username": "d1nzee",
+      "updatedAt": "2026-04-23T20:02:53.783Z",
+      "displayName": "D1NZE",
+      "previousTier": "HT2"
     },
     {
-      "username": "zxny77",
-      "displayName": "Zxny77",
       "ign": "Zxny77",
       "tier": "HT3",
-      "previousTier": "HT3",
       "region": "NA",
       "source": "Tested",
+      "userId": "1361510979975905322",
+      "username": "zxny77",
       "updatedAt": "2026-04-22T19:12:02.442Z",
-      "userId": "1361510979975905322"
+      "displayName": "Zxny77",
+      "previousTier": "HT3"
     },
     {
-      "username": "karollvx1",
-      "displayName": "C:/ @4 help",
       "ign": "AirAnch4r_",
       "tier": "LT3",
-      "previousTier": "Set Manually",
       "region": "EU",
       "source": "Tested",
+      "userId": "1408841731465674852",
+      "username": "karollvx1",
       "updatedAt": "2026-04-23T15:49:22.772Z",
-      "userId": "1408841731465674852"
+      "displayName": "C:/ @4 help",
+      "previousTier": "Set Manually"
     },
     {
-      "username": "spookys____45497",
-      "displayName": "Spooky",
       "ign": "SPOOKYS_",
       "tier": "LT3",
-      "previousTier": "LT3",
       "region": "NA",
       "source": "Tested",
+      "userId": "1489915532034445442",
+      "username": "spookys____45497",
       "updatedAt": "2026-04-22T22:47:04.530Z",
-      "userId": "1489915532034445442"
+      "displayName": "Spooky",
+      "previousTier": "LT3"
     },
     {
-      "username": "chrisgamingytt",
-      "displayName": "ChrisGamingYTT",
-      "ign": "ChrisGamingYTT",
-      "tier": "LT4",
-      "previousTier": "LT4",
-      "region": "EU",
-      "source": "Tested",
-      "updatedAt": "2026-04-23T20:21:06.947Z",
-      "userId": "1191419401245827204"
-    },
-    {
-      "username": "fg7_goat",
-      "displayName": "RONFG7",
       "ign": "Realrenz",
       "tier": "LT5",
-      "previousTier": "Unranked",
       "region": "EU",
       "source": "Tested",
+      "userId": "1253099570267820170",
+      "username": "fg7_goat",
       "updatedAt": "2026-04-23T20:10:37.691Z",
-      "userId": "1253099570267820170"
+      "displayName": "RONFG7",
+      "previousTier": "Unranked"
     },
     {
-      "username": "nolimitblock_28207",
-      "displayName": "not yvl",
       "ign": "SKIBIDI",
       "tier": "LT5",
-      "previousTier": "Unranked",
       "region": "EU",
       "source": "Tested",
+      "userId": "1450515261240377415",
+      "username": "nolimitblock_28207",
       "updatedAt": "2026-04-22T16:11:00.760Z",
-      "userId": "1450515261240377415"
+      "displayName": "not yvl",
+      "previousTier": "Unranked"
     },
     {
-      "username": "applepvp.com",
-      "displayName": "Alt",
-      "ign": "Furriers",
+      "ign": "ChrisGamingYTT",
       "tier": "Unranked",
-      "previousTier": "HT2",
       "region": "EU",
       "source": "Tested",
+      "userId": "1191419401245827204",
+      "username": "chrisgamingytt",
+      "updatedAt": "2026-04-23T20:43:12.904Z",
+      "displayName": "ChrisGamingYTT",
+      "previousTier": "LT4"
+    },
+    {
+      "ign": "Furriers",
+      "tier": "Unranked",
+      "region": "EU",
+      "source": "Tested",
+      "userId": "1491966256406855700",
+      "username": "applepvp.com",
       "updatedAt": "2026-04-23T20:33:31.809Z",
-      "userId": "1491966256406855700"
+      "displayName": "Alt",
+      "previousTier": "HT2"
     }
   ]
 };
