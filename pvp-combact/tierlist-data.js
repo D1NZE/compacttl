@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-23T20:02:53.785Z",
+  "updatedAt": "2026-04-23T20:10:37.691Z",
   "players": [
     {
       "username": "applepvp.com",
@@ -66,6 +66,17 @@ window.TIERLIST_PLAYERS = {
       "source": "Tested",
       "updatedAt": "2026-04-22T22:47:04.530Z",
       "userId": "1489915532034445442"
+    },
+    {
+      "username": "fg7_goat",
+      "displayName": "RONFG7",
+      "ign": "Realrenz",
+      "tier": "LT5",
+      "previousTier": "Unranked",
+      "region": "EU",
+      "source": "Tested",
+      "updatedAt": "2026-04-23T20:10:37.691Z",
+      "userId": "1253099570267820170"
     },
     {
       "username": "nolimitblock_28207",
