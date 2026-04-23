@@ -9,10 +9,25 @@
   <body class="is-loading">
     <div class="loader-screen" id="loaderScreen" role="status" aria-live="polite">
       <div class="loader-card">
-        <img src="img_3.png" alt="" class="loader-crystal">
-        <strong>Vanilla-compact</strong>
-        <span>Loading tierlist</span>
-        <div class="loader-bar" aria-hidden="true"><i></i></div>
+        <div class="loader-orbit" aria-hidden="true">
+          <span></span>
+          <span></span>
+          <img src="img_3.png" alt="" class="loader-crystal">
+        </div>
+        <div class="loader-title">
+          <span>Crystal Database</span>
+          <strong>Vanilla-compact</strong>
+        </div>
+        <div class="loader-status">
+          <span>Syncing tiers</span>
+          <span>Loading skins</span>
+          <span>Checking regions</span>
+        </div>
+        <div class="loader-meter">
+          <strong id="loaderPercent">0%</strong>
+          <div class="loader-bar" aria-hidden="true"><i id="loaderBarFill"></i></div>
+        </div>
+        <p class="loader-copy" id="loaderCopy">Preparing the leaderboard</p>
       </div>
     </div>
 
@@ -52,30 +67,30 @@
               <span id="activeView">Crystal view</span>
             </div>
           </div>
-          <div class="stats">
-            <article>
-              <strong>10</strong>
-              <span>Tiers</span>
-            </article>
-            <article>
-              <strong>4</strong>
-              <span>Tracked Sources</span>
-            </article>
-            <article>
-              <strong id="discordCount">...</strong>
-              <span>Discord Stats</span>
-            </article>
-            <article>
-              <strong>LT3+</strong>
-              <span>High Test</span>
-            </article>
+          <div class="hero-center-mark" aria-hidden="true">
+            <img id="heroCenterImage" src="img_3.png" alt="">
+            <span class="hero-center-emoji" id="heroCenterEmoji" hidden></span>
+            <span id="heroCenterLabel">Crystal PvP</span>
           </div>
+          <aside class="support-note" aria-label="Community support message">
+            <p class="eyebrow">Community</p>
+            <h2>Thank You For The Support</h2>
+            <p>
+              If you joined, checked out our website, helped us grow, or supported Vanilla-compact in any way,
+              we really appreciate you.
+            </p>
+            <p>
+              We hope you have a great time testing, improving, and having fun with the community in our server.
+              Check everything out, enjoy the tierlist, and make a Discord ticket if you ever need help.
+            </p>
+          </aside>
         </section>
 
         <section class="mode-strip" aria-label="Game mode selector">
           <button class="mode" type="button" data-mode="Overall"><span>&#127942;</span> Overall</button>
           <button class="mode active crystal-mode" type="button" data-mode="Crystal"><img class="mode-icon" src="img_3.png" alt=""> Crystal</button>
           <button class="mode database-mode" type="button" data-mode="Database"><span>&#128200;</span> Database</button>
+          <button class="mode info-mode" type="button" id="infoModeButton"><span>i</span> Information</button>
         </section>
 
         <section class="crystal-menu" id="crystalMenu" aria-label="Crystal tier board">
@@ -298,14 +313,37 @@
       </div>
       <div class="info-dialog-body">
         <p>
-          Our Discord server is the center of Vanilla-compact. The tierlist is built around fair Crystal PvP tests,
-          clear results, and a fair community where players can improve without drama.
+          Vanilla-compact is a Crystal PvP community built around testing, fair placements, active waitlists, and a
+          clean tierlist that players can check at any time. The website tracks player tiers, regions, points,
+          migrations, and testing history from the Discord bot.
         </p>
         <p>
-          Staff test based on skill, not favoritism. If you join the waitlist, wait patiently for a tester in your
-          region. When staff closes or migrates a result, the selected tier is saved to this website and the player
-          profile updates automatically.
+          Our Discord is where players join the waitlist, open tickets, request tests, and talk with the community.
+          Staff use test results to update the leaderboard, and the website keeps those results organized so everyone
+          can see current placements clearly.
         </p>
+        <div class="info-grid">
+          <article>
+            <span>Website</span>
+            <strong>Vanilla-compact Tierlist</strong>
+            <p>Shows Crystal rankings, player profiles, regions, combat points, and database stats.</p>
+          </article>
+          <article>
+            <span>Discord</span>
+            <strong>Community Server</strong>
+            <p>Used for waitlists, tickets, support, testing, announcements, and staff help.</p>
+          </article>
+          <article>
+            <span>Developer</span>
+            <strong>D1NZE</strong>
+            <p>Built and manages the website systems, bot tools, and tierlist features.</p>
+          </article>
+          <article>
+            <span>Owner</span>
+            <strong>ZXNY77</strong>
+            <p>Leads the server, community direction, and staff organization.</p>
+          </article>
+        </div>
         <a class="discord-button" href="https://discord.gg/Y6YCTRPPak" target="_blank" rel="noreferrer">Join Discord</a>
       </div>
     </dialog>

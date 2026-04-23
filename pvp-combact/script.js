@@ -23,11 +23,13 @@ const pointsInfoPopover = document.querySelector("#pointsInfoPopover");
 const heroEyebrow = document.querySelector(".hero .eyebrow");
 const heroTitle = document.querySelector("#heroTitle");
 const heroLede = document.querySelector("#heroLede");
+const heroCenterLabel = document.querySelector("#heroCenterLabel");
+const heroCenterImage = document.querySelector("#heroCenterImage");
+const heroCenterEmoji = document.querySelector("#heroCenterEmoji");
 const lastUpdated = document.querySelector("#lastUpdated");
 const activeView = document.querySelector("#activeView");
 const crystalMenu = document.querySelector("#crystalMenu");
 const tierBuckets = document.querySelector("#tierBuckets");
-const discordCount = document.querySelector("#discordCount");
 const databasePanel = document.querySelector("#databasePanel");
 const filtersPanel = document.querySelector("#filtersPanel");
 const rankingsPanel = document.querySelector("#rankings");
@@ -40,23 +42,34 @@ const regionChart = document.querySelector("#regionChart");
 const tierChart = document.querySelector("#tierChart");
 const sourceChart = document.querySelector("#sourceChart");
 const loaderScreen = document.querySelector("#loaderScreen");
+const loaderCopy = document.querySelector("#loaderCopy");
+const loaderPercent = document.querySelector("#loaderPercent");
+const loaderBarFill = document.querySelector("#loaderBarFill");
+const loaderStatusItems = document.querySelectorAll(".loader-status span");
+const loaderDurationMs = 3400;
 
 const tierOrder = ["HT1", "LT1", "HT2", "LT2", "HT3", "LT3", "HT4", "LT4", "HT5", "LT5", "Unranked"];
 const modeCopy = {
   Overall: {
     eyebrow: "Overall Rankings",
     title: "Overall Leaderboard",
-    lede: "Search every tracked player by Minecraft name, Discord ID, tier, region, points, or combat rank."
+    lede: "Search every tracked player by Minecraft name, Discord ID, tier, region, points, or combat rank.",
+    center: "Overall",
+    emoji: "🏆"
   },
   Crystal: {
     eyebrow: "Crystal PvP Rankings",
     title: "Crystal Leaderboard",
-    lede: "Crystal placements grouped by HT and LT tiers, updated from staff test results and migrations."
+    lede: "Crystal placements grouped by HT and LT tiers, updated from staff test results and migrations.",
+    center: "Crystal PvP",
+    image: "img_3.png"
   },
   Database: {
     eyebrow: "Player Database",
     title: "Database Stats",
-    lede: "Server and leaderboard stats showing tested players, regions, tier spread, sources, and total points."
+    lede: "Server and leaderboard stats showing tested players, regions, tier spread, sources, and total points.",
+    center: "Database",
+    emoji: "📈"
   }
 };
 const tierPoints = {
@@ -211,7 +224,6 @@ function displaySource(source) {
 
 function renderRows() {
   renderedPlayers = sortedPlayers();
-  animateNumber(discordCount, renderedPlayers.length);
   const updatedAt = window.TIERLIST_PLAYERS?.updatedAt;
   lastUpdated.textContent = `Last updated: ${formatUpdated(updatedAt)}`;
   rankingRows.innerHTML = renderedPlayers
@@ -269,7 +281,56 @@ function hideLoader() {
   window.setTimeout(() => {
     loaderScreen.classList.add("is-hidden");
     document.body.classList.remove("is-loading");
-  }, 650);
+  }, loaderDurationMs);
+}
+
+function runLoaderCopy() {
+  if (!loaderCopy && !loaderPercent && !loaderBarFill && !loaderStatusItems.length) {
+    return null;
+  }
+
+  const messages = [
+    "Preparing the leaderboard",
+    "Reading player tiers",
+    "Matching Discord profiles",
+    "Sorting Crystal rankings",
+    "Building region filters",
+    "Finalizing Vanilla-compact"
+  ];
+  let index = 0;
+  const startedAt = performance.now();
+
+  function update(now) {
+    const progress = Math.min(1, (now - startedAt) / loaderDurationMs);
+    const eased = 1 - Math.pow(1 - progress, 3);
+    const percent = Math.min(100, Math.round(eased * 100));
+    const nextIndex = Math.min(messages.length - 1, Math.floor(progress * messages.length));
+    const activeStatus = Math.min(loaderStatusItems.length - 1, Math.floor(progress * loaderStatusItems.length));
+
+    if (loaderCopy && nextIndex !== index) {
+      index = nextIndex;
+      loaderCopy.textContent = messages[index];
+    }
+    if (loaderPercent) {
+      loaderPercent.textContent = `${percent}%`;
+    }
+    if (loaderBarFill) {
+      loaderBarFill.style.width = `${Math.max(7, percent)}%`;
+    }
+    loaderStatusItems.forEach((item, itemIndex) => {
+      item.classList.toggle("is-active", itemIndex === activeStatus);
+    });
+    if (loaderScreen) {
+      loaderScreen.classList.toggle("is-ready", percent >= 94);
+    }
+
+    if (progress < 1) {
+      requestAnimationFrame(update);
+    }
+  }
+
+  requestAnimationFrame(update);
+  return true;
 }
 
 function countBy(players, getter) {
@@ -457,14 +518,12 @@ function loadDiscordCount() {
     .then((data) => {
       const onlineCount = Number(data?.presence_count);
       if (Number.isFinite(onlineCount) && onlineCount > 0) {
-        animateNumber(discordCount, onlineCount);
         animateNumber(dbDiscordOnline, onlineCount);
         return;
       }
       dbDiscordOnline.textContent = "N/A";
     })
     .catch(() => {
-      discordCount.textContent = `${renderedPlayers.length}`;
       dbDiscordOnline.textContent = "N/A";
     });
 }
@@ -526,6 +585,10 @@ pointsInfoButton.addEventListener("click", () => {
 
 modes.forEach((button) => {
   button.addEventListener("click", () => {
+    if (!button.dataset.mode) {
+      openDialog(infoDialog);
+      return;
+    }
     modes.forEach((item) => item.classList.toggle("active", item === button));
     const mode = button.dataset.mode || "Crystal";
     activeMode = mode;
@@ -533,6 +596,16 @@ modes.forEach((button) => {
     heroEyebrow.textContent = copy.eyebrow;
     heroTitle.textContent = copy.title;
     heroLede.textContent = copy.lede;
+    heroCenterLabel.textContent = copy.center;
+    if (copy.image) {
+      heroCenterImage.src = copy.image;
+      heroCenterImage.hidden = false;
+      heroCenterEmoji.hidden = true;
+    } else {
+      heroCenterEmoji.textContent = copy.emoji || "";
+      heroCenterEmoji.hidden = false;
+      heroCenterImage.hidden = true;
+    }
     activeView.textContent = `${mode} view`;
     document.body.dataset.view = mode.toLowerCase();
     crystalMenu.hidden = mode !== "Crystal";
@@ -582,6 +655,7 @@ searchInput.addEventListener("blur", () => {
   }, 140);
 });
 
+runLoaderCopy();
 renderRows();
 applyFilters();
 loadDiscordCount();
