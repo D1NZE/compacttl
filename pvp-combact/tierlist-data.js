@@ -8,7 +8,7 @@ window.TIERLIST_PLAYERS = {
       "tier": "HT2",
       "previousTier": "Migrated",
       "region": "NA",
-      "source": "Crystal ranked",
+      "source": "Miragrated",
       "updatedAt": "2026-04-22T23:03:06.440Z",
       "userId": "1491966256406855700"
     },
@@ -20,7 +20,7 @@ window.TIERLIST_PLAYERS = {
       "tier": "HT3",
       "previousTier": "LT2",
       "region": "EU",
-      "source": "Set Manually",
+      "source": "Tested",
       "updatedAt": "2026-04-22T19:59:21.375Z"
     },
     {

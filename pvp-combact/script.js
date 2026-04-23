@@ -39,6 +39,7 @@ const dbTotalPoints = document.querySelector("#dbTotalPoints");
 const regionChart = document.querySelector("#regionChart");
 const tierChart = document.querySelector("#tierChart");
 const sourceChart = document.querySelector("#sourceChart");
+const loaderScreen = document.querySelector("#loaderScreen");
 
 const tierOrder = ["HT1", "LT1", "HT2", "LT2", "HT3", "LT3", "HT4", "LT4", "HT5", "LT5", "Unranked"];
 const modeCopy = {
@@ -192,6 +193,22 @@ function getCombatRank(points, tier) {
   return "Unranked";
 }
 
+function displaySource(source) {
+  const value = String(source || "").trim().toLowerCase();
+  if (
+    value.includes("migrat") ||
+    value.includes("miragrat") ||
+    value === "crystal ranked" ||
+    value === "lurnss tierlist" ||
+    value === "mctier list" ||
+    value === "nova tierlist"
+  ) {
+    return "Miragrated";
+  }
+
+  return "Tested";
+}
+
 function renderRows() {
   renderedPlayers = sortedPlayers();
   animateNumber(discordCount, renderedPlayers.length);
@@ -204,6 +221,7 @@ function renderRows() {
       const region = player.region || "N/A";
       const points = getTierPoints(tier);
       const combatRank = getCombatRank(points, tier);
+      const source = displaySource(player.source);
       const searchable = [
         ign,
         player.username,
@@ -213,7 +231,7 @@ function renderRows() {
         `${points} points`,
         combatRank,
         region,
-        player.source
+        source
       ]
         .filter(Boolean)
         .join(" ")
@@ -229,7 +247,7 @@ function renderRows() {
           <span class="tag ${escapeHtml(region.toLowerCase())}">${escapeHtml(region)}</span>
           <span class="tier ${escapeHtml(tier.toLowerCase())}">${escapeHtml(tier)}</span>
           <span class="points-pill">${points} pts</span>
-          <span>${escapeHtml(player.source || "Tested")}</span>
+          <span>${escapeHtml(source)}</span>
           <span>${escapeHtml(formatUpdated(player.updatedAt))}</span>
         </button>
       `;
@@ -241,6 +259,17 @@ function renderRows() {
   });
   renderTierBuckets();
   renderDatabase();
+}
+
+function hideLoader() {
+  if (!loaderScreen) {
+    return;
+  }
+
+  window.setTimeout(() => {
+    loaderScreen.classList.add("is-hidden");
+    document.body.classList.remove("is-loading");
+  }, 650);
 }
 
 function countBy(players, getter) {
@@ -283,7 +312,7 @@ function renderDatabase() {
   const players = renderedPlayers;
   const regionCounts = countBy(players, (player) => player.region || "N/A");
   const tierCounts = countBy(players, (player) => player.tier || "Unranked");
-  const sourceCounts = countBy(players, (player) => player.source || "Tested");
+  const sourceCounts = countBy(players, (player) => displaySource(player.source));
   const totalPoints = players.reduce(
     (sum, player) => sum + getTierPoints(player.tier || "Unranked"),
     0
@@ -296,7 +325,7 @@ function renderDatabase() {
   animateNumber(dbTotalPoints, totalPoints);
   renderBarChart(regionChart, regionCounts, ["NA", "EU", "AS", "N/A"]);
   renderBarChart(tierChart, tierCounts, tierOrder);
-  renderBarChart(sourceChart, sourceCounts, ["Tested", "Migrated", "Example"]);
+  renderBarChart(sourceChart, sourceCounts, ["Tested", "Miragrated"]);
 }
 
 function renderTierBuckets() {
@@ -472,7 +501,7 @@ function openPlayerDialog(player) {
   dialogPoints.textContent = `${points}`;
   dialogCombatRank.textContent = getCombatRank(points, tier);
   dialogRegion.textContent = player.region || "N/A";
-  dialogSource.textContent = player.source || "Tested";
+  dialogSource.textContent = displaySource(player.source);
   openDialog(playerDialog);
 }
 
@@ -557,3 +586,4 @@ renderRows();
 applyFilters();
 loadDiscordCount();
 document.body.dataset.view = activeMode.toLowerCase();
+hideLoader();
