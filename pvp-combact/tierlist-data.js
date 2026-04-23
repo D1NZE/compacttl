@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-23T18:33:45.686Z",
+  "updatedAt": "2026-04-23T18:34:50.740Z",
   "players": [
     {
       "username": "applepvp.com",
@@ -57,17 +57,6 @@ window.TIERLIST_PLAYERS = {
       "userId": "1489915532034445442"
     },
     {
-      "username": "chrisgamingytt",
-      "displayName": "ChrisGamingYTT",
-      "ign": "ChrisGamingYTT",
-      "tier": "HT4",
-      "previousTier": "Set Manually",
-      "region": "EU",
-      "source": "Tested",
-      "updatedAt": "2026-04-23T18:24:18.745Z",
-      "userId": "1191419401245827204"
-    },
-    {
       "username": "nolimitblock_28207",
       "displayName": "not yvl",
       "ign": "SKIBIDI",
@@ -77,6 +66,17 @@ window.TIERLIST_PLAYERS = {
       "source": "Tested",
       "updatedAt": "2026-04-22T16:11:00.760Z",
       "userId": "1450515261240377415"
+    },
+    {
+      "username": "chrisgamingytt",
+      "displayName": "ChrisGamingYTT",
+      "ign": "ChrisGamingYTT",
+      "tier": "Unranked",
+      "previousTier": "HT4",
+      "region": "EU",
+      "source": "Tested",
+      "updatedAt": "2026-04-23T18:34:50.739Z",
+      "userId": "1191419401245827204"
     }
   ]
 };
