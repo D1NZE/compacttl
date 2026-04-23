@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-23T18:11:50.955Z",
+  "updatedAt": "2026-04-23T18:24:18.747Z",
   "players": [
     {
       "username": "applepvp.com",
@@ -55,6 +55,17 @@ window.TIERLIST_PLAYERS = {
       "source": "Tested",
       "updatedAt": "2026-04-22T22:47:04.530Z",
       "userId": "1489915532034445442"
+    },
+    {
+      "username": "chrisgamingytt",
+      "displayName": "ChrisGamingYTT",
+      "ign": "ChrisGamingYTT",
+      "tier": "HT4",
+      "previousTier": "Set Manually",
+      "region": "EU",
+      "source": "Tested",
+      "updatedAt": "2026-04-23T18:24:18.745Z",
+      "userId": "1191419401245827204"
     },
     {
       "username": "nolimitblock_28207",
