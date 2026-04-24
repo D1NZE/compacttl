@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-24T22:01:24.424Z",
+  "updatedAt": "2026-04-24T22:02:52.046Z",
   "players": [
     {
       "ign": "D1NZE",
@@ -8,7 +8,7 @@ window.TIERLIST_PLAYERS = {
       "source": "Tested",
       "userId": "1164936631908835351",
       "username": "d1nzee",
-      "updatedAt": "2026-04-24T22:01:24.412Z",
+      "updatedAt": "2026-04-24T22:02:52.030Z",
       "displayName": "D1NZE",
       "previousTier": "Unranked"
     },
