@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-24T09:12:29.407Z",
+  "updatedAt": "2026-04-24T09:13:57.769Z",
   "players": [
     {
       "ign": "D1NZE",
@@ -66,6 +66,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-22T22:47:04.530Z",
       "displayName": "Spooky",
       "previousTier": "LT3"
+    },
+    {
+      "username": "borntobeafailure_0",
+      "displayName": "4Flure",
+      "ign": "xyzssz",
+      "tier": "LT3",
+      "previousTier": "Set Manually",
+      "region": "EU",
+      "source": "Tested",
+      "updatedAt": "2026-04-24T09:13:57.767Z",
+      "userId": "1452264571967373333"
     },
     {
       "ign": "Realrenz",
