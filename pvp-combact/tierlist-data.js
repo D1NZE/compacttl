@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-24T17:32:25.981Z",
+  "updatedAt": "2026-04-24T17:34:28.906Z",
   "players": [
     {
       "ign": "D1NZE",
