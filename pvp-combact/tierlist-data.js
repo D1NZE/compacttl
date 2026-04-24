@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-23T20:43:12.919Z",
+  "updatedAt": "2026-04-24T00:13:53.556Z",
   "players": [
     {
       "ign": "D1NZE",
@@ -33,6 +33,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-23T15:49:22.772Z",
       "displayName": "C:/ @4 help",
       "previousTier": "Set Manually"
+    },
+    {
+      "username": "itszvon",
+      "displayName": "itszvon",
+      "ign": "itszvon",
+      "tier": "LT3",
+      "previousTier": "Migrated",
+      "region": "NA",
+      "source": "Miragrated",
+      "updatedAt": "2026-04-24T00:13:53.546Z",
+      "userId": "1309933368137224242"
     },
     {
       "ign": "SPOOKYS_",
