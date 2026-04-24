@@ -1,6 +1,17 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-24T22:02:52.046Z",
+  "updatedAt": "2026-04-24T22:25:27.210Z",
   "players": [
+    {
+      "ign": "Zxny77",
+      "tier": "LT2",
+      "region": "NA",
+      "source": "Tested",
+      "userId": "1361510979975905322",
+      "username": "zxny77",
+      "updatedAt": "2026-04-24T22:25:27.207Z",
+      "displayName": "Zxny77",
+      "previousTier": "HT3"
+    },
     {
       "ign": "D1NZE",
       "tier": "HT3",
@@ -33,17 +44,6 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-24T17:52:30.353Z",
       "displayName": "S1NZE",
       "previousTier": "HT4"
-    },
-    {
-      "ign": "Zxny77",
-      "tier": "HT3",
-      "region": "NA",
-      "source": "Tested",
-      "userId": "1361510979975905322",
-      "username": "zxny77",
-      "updatedAt": "2026-04-22T19:12:02.442Z",
-      "displayName": "Zxny77",
-      "previousTier": "HT3"
     },
     {
       "ign": "AirAnch4r_",
