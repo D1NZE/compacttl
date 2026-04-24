@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-24T19:21:03.160Z",
+  "updatedAt": "2026-04-24T21:25:42.111Z",
   "players": [
     {
       "ign": "D1NZE",
@@ -22,6 +22,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-24T09:12:29.395Z",
       "displayName": "draculealol",
       "previousTier": "Set Manually"
+    },
+    {
+      "username": "0eyp",
+      "displayName": "𝐏𝟏ΛΣ",
+      "ign": "p1ae",
+      "tier": "HT3",
+      "previousTier": "Migrated",
+      "region": "NA",
+      "source": "Miragrated",
+      "updatedAt": "2026-04-24T21:25:42.097Z",
+      "userId": "1362022658291535932"
     },
     {
       "ign": "SPOOKYS_",
@@ -68,15 +79,15 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "Migrated"
     },
     {
-      "username": "thehonor3done_",
-      "displayName": "𝓣𝓱𝓮𝓗𝓸𝓷𝓸𝓻𝓮𝓭𝓞𝓷𝓮",
       "ign": "thehonor3done_",
       "tier": "LT3",
-      "previousTier": "Set Manually",
-      "region": "EU",
+      "region": "NA",
       "source": "Tested",
-      "updatedAt": "2026-04-24T19:21:03.158Z",
-      "userId": "1245829463011364894"
+      "userId": "1245829463011364894",
+      "username": "thehonor3done_",
+      "updatedAt": "2026-04-24T19:17:10.123Z",
+      "displayName": "𝓣𝓱𝓮𝓗𝓸𝓷𝓸𝓻𝓮𝓭𝓞𝓷𝓮",
+      "previousTier": "Set Manually"
     },
     {
       "ign": "xyzssz",
