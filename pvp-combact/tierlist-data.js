@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-25T18:04:13.731Z",
+  "updatedAt": "2026-04-25T18:05:35.876Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -73,9 +73,9 @@ window.TIERLIST_PLAYERS = {
       "ign": "applepvp_com",
       "tier": "LT3",
       "previousTier": "Migrated",
-      "region": "EU",
+      "region": "NA",
       "source": "Miragrated",
-      "updatedAt": "2026-04-25T18:04:13.712Z",
+      "updatedAt": "2026-04-25T18:05:35.872Z",
       "userId": "1206114903447048214"
     },
     {
