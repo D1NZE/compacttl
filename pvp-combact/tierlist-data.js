@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-25T18:05:35.876Z",
+  "updatedAt": "2026-04-25T18:11:45.125Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -77,6 +77,17 @@ window.TIERLIST_PLAYERS = {
       "source": "Miragrated",
       "updatedAt": "2026-04-25T18:05:35.872Z",
       "userId": "1206114903447048214"
+    },
+    {
+      "username": "azchai",
+      "displayName": "! 𝙖𝙯𝙘𝙝𝙖𝙞",
+      "ign": "azchai",
+      "tier": "LT3",
+      "previousTier": "Migrated",
+      "region": "NA",
+      "source": "Miragrated",
+      "updatedAt": "2026-04-25T18:11:45.123Z",
+      "userId": "1397748023358128159"
     },
     {
       "ign": "BobbyJeff434",
