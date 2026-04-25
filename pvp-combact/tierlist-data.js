@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-25T22:21:09.722Z",
+  "updatedAt": "2026-04-25T23:03:00.641Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -132,6 +132,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-25T13:06:24.749Z",
       "displayName": "D1NZE",
       "previousTier": "HT3"
+    },
+    {
+      "username": ".wrynd",
+      "displayName": "🕸 Spooderguy",
+      "ign": "Draven8469",
+      "tier": "LT3",
+      "previousTier": "Migrated",
+      "region": "NA",
+      "source": "Miragrated",
+      "updatedAt": "2026-04-25T23:03:00.640Z",
+      "userId": "1484367155880267953"
     },
     {
       "username": "haze__w",
