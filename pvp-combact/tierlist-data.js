@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-25T16:05:32.373Z",
+  "updatedAt": "2026-04-25T16:51:33.981Z",
   "players": [
     {
       "ign": "Zxny77",
@@ -44,6 +44,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-24T17:52:30.353Z",
       "displayName": "S1NZE",
       "previousTier": "HT4"
+    },
+    {
+      "username": "vyzoc",
+      "displayName": "vyzoc",
+      "ign": "vyzox",
+      "tier": "HT3",
+      "previousTier": "Migrated",
+      "region": "EU",
+      "source": "Miragrated",
+      "updatedAt": "2026-04-25T16:51:33.980Z",
+      "userId": "665603517653844000"
     },
     {
       "ign": "AirAnch4r_",
