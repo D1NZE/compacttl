@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-25T16:04:16.261Z",
+  "updatedAt": "2026-04-25T16:05:32.373Z",
   "players": [
     {
       "ign": "Zxny77",
@@ -27,12 +27,12 @@ window.TIERLIST_PLAYERS = {
       "ign": "helpfulawareness",
       "tier": "HT3",
       "region": "NA",
-      "source": "Tested",
+      "source": "Miragrated",
       "userId": "1216494938171117571",
       "username": "laxoooo",
-      "updatedAt": "2026-04-25T16:04:16.246Z",
+      "updatedAt": "2026-04-25T16:05:32.371Z",
       "displayName": "l",
-      "previousTier": "LT2"
+      "previousTier": "Migrated"
     },
     {
       "ign": "SPOOKYS_",
