@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-25T16:03:12.756Z",
+  "updatedAt": "2026-04-25T16:04:16.261Z",
   "players": [
     {
       "ign": "Zxny77",
@@ -24,13 +24,13 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "Set Manually"
     },
     {
-      "ign": "laxoooo",
+      "ign": "helpfulawareness",
       "tier": "HT3",
       "region": "NA",
       "source": "Tested",
       "userId": "1216494938171117571",
       "username": "laxoooo",
-      "updatedAt": "2026-04-25T16:03:12.740Z",
+      "updatedAt": "2026-04-25T16:04:16.246Z",
       "displayName": "l",
       "previousTier": "LT2"
     },
