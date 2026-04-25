@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-25T13:06:24.752Z",
+  "updatedAt": "2026-04-25T13:26:35.370Z",
   "players": [
     {
       "username": "laxoooo",
@@ -113,14 +113,14 @@ window.TIERLIST_PLAYERS = {
     },
     {
       "ign": "xabwxmlol",
-      "tier": "LT4",
+      "tier": "HT5",
       "region": "NA",
-      "source": "Tested",
+      "source": "Miragrated",
       "userId": "1085197066797592636",
       "username": "xabwxmlol",
-      "updatedAt": "2026-04-24T15:33:08.715Z",
+      "updatedAt": "2026-04-25T13:26:35.368Z",
       "displayName": "ItzVlurzz",
-      "previousTier": "Unranked"
+      "previousTier": "Migrated"
     },
     {
       "ign": "Realrenz",
