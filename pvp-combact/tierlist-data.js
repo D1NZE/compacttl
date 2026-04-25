@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-25T18:42:14.261Z",
+  "updatedAt": "2026-04-25T20:35:27.018Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -57,6 +57,17 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "HT4"
     },
     {
+      "ign": "4Flure",
+      "tier": "LT3",
+      "region": "AS",
+      "source": "Tested",
+      "userId": "1452264571967373333",
+      "username": "borntobeafailure_0",
+      "updatedAt": "2026-04-25T20:35:27.004Z",
+      "displayName": "4Flure",
+      "previousTier": "Set Manually"
+    },
+    {
       "ign": "AirAnch4r_",
       "tier": "LT3",
       "region": "EU",
@@ -68,26 +79,26 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "Set Manually"
     },
     {
-      "username": "2ti3",
-      "displayName": "L",
       "ign": "applepvp_com",
       "tier": "LT3",
-      "previousTier": "LT3",
       "region": "NA",
       "source": "Tested",
+      "userId": "1206114903447048214",
+      "username": "2ti3",
       "updatedAt": "2026-04-25T18:42:14.260Z",
-      "userId": "1206114903447048214"
+      "displayName": "L",
+      "previousTier": "LT3"
     },
     {
-      "username": "azchai",
-      "displayName": "! 𝙖𝙯𝙘𝙝𝙖𝙞",
       "ign": "azchai",
       "tier": "LT3",
-      "previousTier": "Migrated",
       "region": "NA",
       "source": "Miragrated",
+      "userId": "1397748023358128159",
+      "username": "azchai",
       "updatedAt": "2026-04-25T18:11:45.123Z",
-      "userId": "1397748023358128159"
+      "displayName": "! 𝙖𝙯𝙘𝙝𝙖𝙞",
+      "previousTier": "Migrated"
     },
     {
       "ign": "BobbyJeff434",
@@ -131,17 +142,6 @@ window.TIERLIST_PLAYERS = {
       "username": "thehonor3done_",
       "updatedAt": "2026-04-24T19:17:10.123Z",
       "displayName": "𝓣𝓱𝓮𝓗𝓸𝓷𝓸𝓻𝓮𝓭𝓞𝓷𝓮",
-      "previousTier": "Set Manually"
-    },
-    {
-      "ign": "xyzssz",
-      "tier": "LT3",
-      "region": "EU",
-      "source": "Tested",
-      "userId": "1452264571967373333",
-      "username": "borntobeafailure_0",
-      "updatedAt": "2026-04-24T09:13:57.767Z",
-      "displayName": "4Flure",
       "previousTier": "Set Manually"
     },
     {
