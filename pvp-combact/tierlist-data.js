@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-25T20:38:24.463Z",
+  "updatedAt": "2026-04-25T20:45:44.958Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -66,6 +66,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-24T17:52:30.353Z",
       "displayName": "S1NZE",
       "previousTier": "HT4"
+    },
+    {
+      "username": "sluggishlol",
+      "displayName": "4/29/26",
+      "ign": "vibranant",
+      "tier": "HT3",
+      "previousTier": "Migrated",
+      "region": "NA",
+      "source": "Miragrated",
+      "updatedAt": "2026-04-25T20:45:44.956Z",
+      "userId": "1399872968162803722"
     },
     {
       "ign": "AirAnch4r_",
