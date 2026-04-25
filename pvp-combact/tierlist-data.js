@@ -1,6 +1,17 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-24T22:25:58.425Z",
+  "updatedAt": "2026-04-25T00:22:05.383Z",
   "players": [
+    {
+      "username": "laxoooo",
+      "displayName": "l",
+      "ign": "laxoooo",
+      "tier": "LT2",
+      "previousTier": "Set Manually",
+      "region": "NA",
+      "source": "Tested",
+      "updatedAt": "2026-04-25T00:22:05.368Z",
+      "userId": "1216494938171117571"
+    },
     {
       "ign": "Zxny77",
       "tier": "LT2",
