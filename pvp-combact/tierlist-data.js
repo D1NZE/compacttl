@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-25T00:22:05.383Z",
+  "updatedAt": "2026-04-25T10:35:20.586Z",
   "players": [
     {
       "username": "laxoooo",
@@ -66,6 +66,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-23T15:49:22.772Z",
       "displayName": "C:/ @4 help",
       "previousTier": "Set Manually"
+    },
+    {
+      "username": "bobby_jeff",
+      "displayName": "BobbyJeff",
+      "ign": "BobbyJeff434",
+      "tier": "LT3",
+      "previousTier": "Migrated",
+      "region": "EU",
+      "source": "Miragrated",
+      "updatedAt": "2026-04-25T10:35:20.585Z",
+      "userId": "932713271008579655"
     },
     {
       "ign": "itszvon",
