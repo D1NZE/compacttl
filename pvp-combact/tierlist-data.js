@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-25T17:49:05.423Z",
+  "updatedAt": "2026-04-25T17:51:14.323Z",
   "players": [
     {
       "username": ".kamzy1.",
@@ -7,9 +7,9 @@ window.TIERLIST_PLAYERS = {
       "ign": "Kamzy1",
       "tier": "LT2",
       "previousTier": "Migrated",
-      "region": "EU",
+      "region": "NA",
       "source": "Miragrated",
-      "updatedAt": "2026-04-25T17:49:05.411Z",
+      "updatedAt": "2026-04-25T17:51:14.320Z",
       "userId": "1465186243233972437"
     },
     {
