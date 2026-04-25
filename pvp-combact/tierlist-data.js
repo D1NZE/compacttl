@@ -1,16 +1,16 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-25T17:51:14.323Z",
+  "updatedAt": "2026-04-25T18:04:13.731Z",
   "players": [
     {
-      "username": ".kamzy1.",
-      "displayName": "Kamzy",
       "ign": "Kamzy1",
       "tier": "LT2",
-      "previousTier": "Migrated",
       "region": "NA",
       "source": "Miragrated",
+      "userId": "1465186243233972437",
+      "username": ".kamzy1.",
       "updatedAt": "2026-04-25T17:51:14.320Z",
-      "userId": "1465186243233972437"
+      "displayName": "Kamzy",
+      "previousTier": "Migrated"
     },
     {
       "ign": "Zxny77",
@@ -66,6 +66,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-23T15:49:22.772Z",
       "displayName": "C:/ @4 help",
       "previousTier": "Set Manually"
+    },
+    {
+      "username": "2ti3",
+      "displayName": "L",
+      "ign": "applepvp_com",
+      "tier": "LT3",
+      "previousTier": "Migrated",
+      "region": "EU",
+      "source": "Miragrated",
+      "updatedAt": "2026-04-25T18:04:13.712Z",
+      "userId": "1206114903447048214"
     },
     {
       "ign": "BobbyJeff434",
