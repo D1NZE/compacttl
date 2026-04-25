@@ -1,6 +1,17 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-25T16:51:33.981Z",
+  "updatedAt": "2026-04-25T17:49:05.423Z",
   "players": [
+    {
+      "username": ".kamzy1.",
+      "displayName": "Kamzy",
+      "ign": "Kamzy1",
+      "tier": "LT2",
+      "previousTier": "Migrated",
+      "region": "EU",
+      "source": "Miragrated",
+      "updatedAt": "2026-04-25T17:49:05.411Z",
+      "userId": "1465186243233972437"
+    },
     {
       "ign": "Zxny77",
       "tier": "LT2",
@@ -44,17 +55,6 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-24T17:52:30.353Z",
       "displayName": "S1NZE",
       "previousTier": "HT4"
-    },
-    {
-      "username": "vyzoc",
-      "displayName": "vyzoc",
-      "ign": "vyzox",
-      "tier": "HT3",
-      "previousTier": "Migrated",
-      "region": "EU",
-      "source": "Miragrated",
-      "updatedAt": "2026-04-25T16:51:33.980Z",
-      "userId": "665603517653844000"
     },
     {
       "ign": "AirAnch4r_",
