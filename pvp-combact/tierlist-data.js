@@ -1,17 +1,6 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-25T13:28:18.291Z",
+  "updatedAt": "2026-04-25T16:03:12.756Z",
   "players": [
-    {
-      "username": "laxoooo",
-      "displayName": "l",
-      "ign": "laxoooo",
-      "tier": "LT2",
-      "previousTier": "Set Manually",
-      "region": "NA",
-      "source": "Tested",
-      "updatedAt": "2026-04-25T00:22:05.368Z",
-      "userId": "1216494938171117571"
-    },
     {
       "ign": "Zxny77",
       "tier": "LT2",
@@ -33,6 +22,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-24T09:12:29.395Z",
       "displayName": "draculealol",
       "previousTier": "Set Manually"
+    },
+    {
+      "ign": "laxoooo",
+      "tier": "HT3",
+      "region": "NA",
+      "source": "Tested",
+      "userId": "1216494938171117571",
+      "username": "laxoooo",
+      "updatedAt": "2026-04-25T16:03:12.740Z",
+      "displayName": "l",
+      "previousTier": "LT2"
     },
     {
       "ign": "SPOOKYS_",
@@ -57,15 +57,15 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "Set Manually"
     },
     {
-      "username": "bobby_jeff",
-      "displayName": "BobbyJeff",
       "ign": "BobbyJeff434",
       "tier": "LT3",
-      "previousTier": "Migrated",
       "region": "EU",
       "source": "Miragrated",
+      "userId": "932713271008579655",
+      "username": "bobby_jeff",
       "updatedAt": "2026-04-25T10:35:20.585Z",
-      "userId": "932713271008579655"
+      "displayName": "BobbyJeff",
+      "previousTier": "Migrated"
     },
     {
       "ign": "D1NZE",
