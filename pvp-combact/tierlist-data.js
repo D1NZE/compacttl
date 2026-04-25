@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-25T11:34:28.821Z",
+  "updatedAt": "2026-04-25T11:34:47.078Z",
   "players": [
     {
       "username": "laxoooo",
@@ -22,6 +22,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-24T22:25:58.424Z",
       "displayName": "Zxny77",
       "previousTier": "HT3"
+    },
+    {
+      "ign": "D1NZE",
+      "tier": "HT3",
+      "region": "EU",
+      "source": "Tested",
+      "userId": "1164936631908835351",
+      "username": "d1nzee",
+      "updatedAt": "2026-04-25T11:34:47.075Z",
+      "displayName": "D1NZE",
+      "previousTier": "LT3"
     },
     {
       "ign": "draculealol",
@@ -66,17 +77,6 @@ window.TIERLIST_PLAYERS = {
       "source": "Miragrated",
       "updatedAt": "2026-04-25T10:35:20.585Z",
       "userId": "932713271008579655"
-    },
-    {
-      "ign": "D1NZE",
-      "tier": "LT3",
-      "region": "EU",
-      "source": "Tested",
-      "userId": "1164936631908835351",
-      "username": "d1nzee",
-      "updatedAt": "2026-04-25T11:34:28.819Z",
-      "displayName": "D1NZE",
-      "previousTier": "HT3"
     },
     {
       "ign": "itszvon",
