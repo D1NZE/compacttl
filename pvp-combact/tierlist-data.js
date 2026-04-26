@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-26T13:00:08.673Z",
+  "updatedAt": "2026-04-26T13:00:30.590Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -195,9 +195,9 @@ window.TIERLIST_PLAYERS = {
       "source": "Forcefully Set",
       "userId": "1191419401245827204",
       "username": "chrisgamingytt",
-      "updatedAt": "2026-04-26T13:00:08.665Z",
+      "updatedAt": "2026-04-26T13:00:30.589Z",
       "displayName": "ChrisGamingYTT",
-      "previousTier": "Unranked"
+      "previousTier": "LT5"
     },
     {
       "ign": "MEOLONGM",
