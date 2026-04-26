@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-25T23:40:37.082Z",
+  "updatedAt": "2026-04-26T00:03:11.168Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -90,17 +90,6 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "Set Manually"
     },
     {
-      "ign": "applepvp_com",
-      "tier": "LT3",
-      "region": "NA",
-      "source": "Tested",
-      "userId": "1206114903447048214",
-      "username": "2ti3",
-      "updatedAt": "2026-04-25T18:42:14.260Z",
-      "displayName": "L",
-      "previousTier": "LT3"
-    },
-    {
       "ign": "azchai",
       "tier": "LT3",
       "region": "NA",
@@ -134,26 +123,26 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "HT3"
     },
     {
-      "username": ".wrynd",
-      "displayName": "🕸 Spooderguy",
       "ign": "Draven8469",
       "tier": "LT3",
-      "previousTier": "Migrated",
       "region": "NA",
       "source": "Miragrated",
+      "userId": "1484367155880267953",
+      "username": ".wrynd",
       "updatedAt": "2026-04-25T23:03:00.640Z",
-      "userId": "1484367155880267953"
+      "displayName": "🕸 Spooderguy",
+      "previousTier": "Migrated"
     },
     {
-      "username": "haze__w",
-      "displayName": "Haze",
       "ign": "hazeelol",
       "tier": "LT3",
-      "previousTier": "Migrated",
       "region": "NA",
       "source": "Miragrated",
+      "userId": "1389049520704327901",
+      "username": "haze__w",
       "updatedAt": "2026-04-25T22:21:09.708Z",
-      "userId": "1389049520704327901"
+      "displayName": "Haze",
+      "previousTier": "Migrated"
     },
     {
       "ign": "itszvon",
