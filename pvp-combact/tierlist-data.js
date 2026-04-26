@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-26T18:14:58.897Z",
+  "updatedAt": "2026-04-26T18:39:40.843Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -213,12 +213,12 @@ window.TIERLIST_PLAYERS = {
     {
       "username": "mihai_eminescu",
       "displayName": "GenuxXD",
-      "ign": "Frostyffa",
+      "ign": "FrostyFFA",
       "tier": "LT5",
       "previousTier": "LT5",
       "region": "EU",
       "source": "Forcefully Set",
-      "updatedAt": "2026-04-26T18:14:58.895Z",
+      "updatedAt": "2026-04-26T18:39:40.839Z",
       "userId": "1462853002984423500"
     },
     {
