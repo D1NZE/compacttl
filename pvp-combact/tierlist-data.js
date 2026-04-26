@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-26T12:54:18.474Z",
+  "updatedAt": "2026-04-26T12:55:20.231Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -187,6 +187,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-25T23:40:37.081Z",
       "displayName": "ItzVlurzz",
       "previousTier": "Unranked"
+    },
+    {
+      "username": "truongvatan",
+      "displayName": "Hine",
+      "ign": "MEOLONGM",
+      "tier": "LT5",
+      "previousTier": "Forcefully Set",
+      "region": "NA",
+      "source": "Forcefully Set",
+      "updatedAt": "2026-04-26T12:55:20.229Z",
+      "userId": "1462003096556277895"
     },
     {
       "username": "mercitee",
