@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-26T19:20:19.226Z",
+  "updatedAt": "2026-04-26T19:24:22.424Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -156,17 +156,6 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "Migrated"
     },
     {
-      "username": "nolimitblock_28207",
-      "displayName": "lrert",
-      "ign": "Gungadancer",
-      "tier": "LT3",
-      "previousTier": "Migrated",
-      "region": "EU",
-      "source": "Mctier list",
-      "updatedAt": "2026-04-26T19:20:19.214Z",
-      "userId": "1450515261240377415"
-    },
-    {
       "ign": "hazeelol",
       "tier": "LT3",
       "region": "NA",
@@ -208,6 +197,17 @@ window.TIERLIST_PLAYERS = {
       "username": "thehonor3done_",
       "updatedAt": "2026-04-26T17:17:51.556Z",
       "displayName": "𝓣𝓱𝓮𝓗𝓸𝓷𝓸𝓻𝓮𝓭𝓞𝓷𝓮",
+      "previousTier": "LT3"
+    },
+    {
+      "ign": "ThekingOfcpvp",
+      "tier": "LT3",
+      "region": "EU",
+      "source": "Mctier list",
+      "userId": "1450515261240377415",
+      "username": "nolimitblock_28207",
+      "updatedAt": "2026-04-26T19:24:22.414Z",
+      "displayName": "lrert",
       "previousTier": "LT3"
     },
     {
