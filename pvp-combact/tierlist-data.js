@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-26T19:17:22.534Z",
+  "updatedAt": "2026-04-26T19:20:19.226Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -134,15 +134,15 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "Migrated"
     },
     {
-      "username": "caddle69",
-      "displayName": "caddle69",
       "ign": "caddle69",
       "tier": "LT3",
-      "previousTier": "LT3",
       "region": "EU",
       "source": "Mctiers",
+      "userId": "1241381473953775639",
+      "username": "caddle69",
       "updatedAt": "2026-04-26T19:17:22.532Z",
-      "userId": "1241381473953775639"
+      "displayName": "caddle69",
+      "previousTier": "LT3"
     },
     {
       "ign": "Draven8469",
@@ -154,6 +154,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-25T23:03:00.640Z",
       "displayName": "🕸 Spooderguy",
       "previousTier": "Migrated"
+    },
+    {
+      "username": "nolimitblock_28207",
+      "displayName": "lrert",
+      "ign": "Gungadancer",
+      "tier": "LT3",
+      "previousTier": "Migrated",
+      "region": "EU",
+      "source": "Mctier list",
+      "updatedAt": "2026-04-26T19:20:19.214Z",
+      "userId": "1450515261240377415"
     },
     {
       "ign": "hazeelol",
@@ -178,15 +189,15 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "Migrated"
     },
     {
-      "username": "puz8",
-      "displayName": "Redz",
       "ign": "Reddism",
       "tier": "LT3",
-      "previousTier": "Migrated",
       "region": "EU",
       "source": "Miragrated",
+      "userId": "808279443138543616",
+      "username": "puz8",
       "updatedAt": "2026-04-26T19:02:45.368Z",
-      "userId": "808279443138543616"
+      "displayName": "Redz",
+      "previousTier": "Migrated"
     },
     {
       "ign": "thehonor3done_",
@@ -233,15 +244,15 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "LT5"
     },
     {
-      "username": "mihai_eminescu",
-      "displayName": "GenuxXD",
       "ign": "FrostyFFA",
       "tier": "LT5",
-      "previousTier": "LT5",
       "region": "EU",
       "source": "Forcefully Set",
+      "userId": "1462853002984423500",
+      "username": "mihai_eminescu",
       "updatedAt": "2026-04-26T18:39:40.839Z",
-      "userId": "1462853002984423500"
+      "displayName": "GenuxXD",
+      "previousTier": "LT5"
     },
     {
       "ign": "MEOLONGM",
