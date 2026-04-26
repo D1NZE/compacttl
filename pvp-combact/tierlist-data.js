@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-26T13:41:10.121Z",
+  "updatedAt": "2026-04-26T15:39:40.628Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -126,12 +126,12 @@ window.TIERLIST_PLAYERS = {
       "ign": "D1NZE",
       "tier": "LT3",
       "region": "EU",
-      "source": "Tested",
+      "source": "Lurnss Tierlist",
       "userId": "1164936631908835351",
       "username": "d1nzee",
-      "updatedAt": "2026-04-26T12:51:09.249Z",
+      "updatedAt": "2026-04-26T15:39:40.601Z",
       "displayName": "D1NZE",
-      "previousTier": "LT5"
+      "previousTier": "LT3"
     },
     {
       "ign": "Draven8469",
@@ -189,15 +189,15 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "Unranked"
     },
     {
-      "username": ".drdonot",
-      "displayName": "[Owner] shyglitches bedrock",
       "ign": ".shyglitches6883",
       "tier": "LT5",
-      "previousTier": "Forcefully Set",
       "region": "AS",
       "source": "Forcefully Set",
+      "userId": "1458787149318062184",
+      "username": ".drdonot",
       "updatedAt": "2026-04-26T13:17:03.251Z",
-      "userId": "1458787149318062184"
+      "displayName": "[Owner] shyglitches bedrock",
+      "previousTier": "Forcefully Set"
     },
     {
       "ign": "ChrisGamingYTT",
@@ -233,15 +233,15 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "Forcefully Set"
     },
     {
-      "username": "0eyp",
-      "displayName": "𝐏𝟏ΛΣ",
       "ign": "p1ae",
       "tier": "LT5",
-      "previousTier": "Forcefully Set",
       "region": "AS",
       "source": "Forcefully Set",
+      "userId": "1362022658291535932",
+      "username": "0eyp",
       "updatedAt": "2026-04-26T13:41:10.118Z",
-      "userId": "1362022658291535932"
+      "displayName": "𝐏𝟏ΛΣ",
+      "previousTier": "Forcefully Set"
     },
     {
       "ign": "Realrenz",
