@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-26T12:55:20.231Z",
+  "updatedAt": "2026-04-26T13:00:08.673Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -189,26 +189,37 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "Unranked"
     },
     {
-      "username": "truongvatan",
-      "displayName": "Hine",
-      "ign": "MEOLONGM",
+      "ign": "ChrisGamingYTT",
       "tier": "LT5",
-      "previousTier": "Forcefully Set",
-      "region": "NA",
-      "source": "Forcefully Set",
-      "updatedAt": "2026-04-26T12:55:20.229Z",
-      "userId": "1462003096556277895"
-    },
-    {
-      "username": "mercitee",
-      "displayName": "merce",
-      "ign": "mercitee",
-      "tier": "LT5",
-      "previousTier": "Forcefully Set",
       "region": "EU",
       "source": "Forcefully Set",
+      "userId": "1191419401245827204",
+      "username": "chrisgamingytt",
+      "updatedAt": "2026-04-26T13:00:08.665Z",
+      "displayName": "ChrisGamingYTT",
+      "previousTier": "Unranked"
+    },
+    {
+      "ign": "MEOLONGM",
+      "tier": "LT5",
+      "region": "NA",
+      "source": "Forcefully Set",
+      "userId": "1462003096556277895",
+      "username": "truongvatan",
+      "updatedAt": "2026-04-26T12:55:20.229Z",
+      "displayName": "Hine",
+      "previousTier": "Forcefully Set"
+    },
+    {
+      "ign": "mercitee",
+      "tier": "LT5",
+      "region": "EU",
+      "source": "Forcefully Set",
+      "userId": "880849016458444810",
+      "username": "mercitee",
       "updatedAt": "2026-04-26T12:54:18.472Z",
-      "userId": "880849016458444810"
+      "displayName": "merce",
+      "previousTier": "Forcefully Set"
     },
     {
       "ign": "Realrenz",
@@ -220,17 +231,6 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-23T20:10:37.691Z",
       "displayName": "RONFG7",
       "previousTier": "Unranked"
-    },
-    {
-      "ign": "ChrisGamingYTT",
-      "tier": "Unranked",
-      "region": "EU",
-      "source": "Tested",
-      "userId": "1191419401245827204",
-      "username": "chrisgamingytt",
-      "updatedAt": "2026-04-23T20:43:12.904Z",
-      "displayName": "ChrisGamingYTT",
-      "previousTier": "LT4"
     },
     {
       "ign": "Furriers",
