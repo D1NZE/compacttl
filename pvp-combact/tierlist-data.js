@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-26T12:50:26.991Z",
+  "updatedAt": "2026-04-26T12:51:09.255Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -123,6 +123,17 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "Migrated"
     },
     {
+      "ign": "D1NZE",
+      "tier": "LT3",
+      "region": "EU",
+      "source": "Tested",
+      "userId": "1164936631908835351",
+      "username": "d1nzee",
+      "updatedAt": "2026-04-26T12:51:09.249Z",
+      "displayName": "D1NZE",
+      "previousTier": "LT5"
+    },
+    {
       "ign": "Draven8469",
       "tier": "LT3",
       "region": "NA",
@@ -176,17 +187,6 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-25T23:40:37.081Z",
       "displayName": "ItzVlurzz",
       "previousTier": "Unranked"
-    },
-    {
-      "ign": "D1NZE",
-      "tier": "LT5",
-      "region": "EU",
-      "source": "Forcefully Set",
-      "userId": "1164936631908835351",
-      "username": "d1nzee",
-      "updatedAt": "2026-04-26T12:50:26.989Z",
-      "displayName": "D1NZE",
-      "previousTier": "LT5"
     },
     {
       "ign": "Realrenz",
