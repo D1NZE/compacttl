@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-26T18:39:40.843Z",
+  "updatedAt": "2026-04-26T19:01:08.297Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -121,6 +121,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-25T10:35:20.585Z",
       "displayName": "BobbyJeff",
       "previousTier": "Migrated"
+    },
+    {
+      "username": "caddle69",
+      "displayName": "caddle69",
+      "ign": "caddle69",
+      "tier": "LT3",
+      "previousTier": "Migrated",
+      "region": "EU",
+      "source": "Miragrated",
+      "updatedAt": "2026-04-26T19:01:08.295Z",
+      "userId": "1241381473953775639"
     },
     {
       "ign": "D1NZE",
