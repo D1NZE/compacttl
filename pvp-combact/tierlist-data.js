@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-26T13:17:03.253Z",
+  "updatedAt": "2026-04-26T13:41:10.121Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -231,6 +231,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-26T12:54:18.472Z",
       "displayName": "merce",
       "previousTier": "Forcefully Set"
+    },
+    {
+      "username": "0eyp",
+      "displayName": "𝐏𝟏ΛΣ",
+      "ign": "p1ae",
+      "tier": "LT5",
+      "previousTier": "Forcefully Set",
+      "region": "AS",
+      "source": "Forcefully Set",
+      "updatedAt": "2026-04-26T13:41:10.118Z",
+      "userId": "1362022658291535932"
     },
     {
       "ign": "Realrenz",
