@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-26T13:00:30.590Z",
+  "updatedAt": "2026-04-26T13:17:03.253Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -187,6 +187,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-25T23:40:37.081Z",
       "displayName": "ItzVlurzz",
       "previousTier": "Unranked"
+    },
+    {
+      "username": ".drdonot",
+      "displayName": "[Owner] shyglitches bedrock",
+      "ign": ".shyglitches6883",
+      "tier": "LT5",
+      "previousTier": "Forcefully Set",
+      "region": "AS",
+      "source": "Forcefully Set",
+      "updatedAt": "2026-04-26T13:17:03.251Z",
+      "userId": "1458787149318062184"
     },
     {
       "ign": "ChrisGamingYTT",
