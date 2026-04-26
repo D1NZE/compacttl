@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-26T12:51:09.255Z",
+  "updatedAt": "2026-04-26T12:54:18.474Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -187,6 +187,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-25T23:40:37.081Z",
       "displayName": "ItzVlurzz",
       "previousTier": "Unranked"
+    },
+    {
+      "username": "mercitee",
+      "displayName": "merce",
+      "ign": "mercitee",
+      "tier": "LT5",
+      "previousTier": "Forcefully Set",
+      "region": "EU",
+      "source": "Forcefully Set",
+      "updatedAt": "2026-04-26T12:54:18.472Z",
+      "userId": "880849016458444810"
     },
     {
       "ign": "Realrenz",
