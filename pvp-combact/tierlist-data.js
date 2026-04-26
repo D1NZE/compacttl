@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-26T19:01:08.297Z",
+  "updatedAt": "2026-04-26T19:02:45.369Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -176,6 +176,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-24T00:13:53.546Z",
       "displayName": "itszvon",
       "previousTier": "Migrated"
+    },
+    {
+      "username": "puz8",
+      "displayName": "Redz",
+      "ign": "Reddism",
+      "tier": "LT3",
+      "previousTier": "Migrated",
+      "region": "EU",
+      "source": "Miragrated",
+      "updatedAt": "2026-04-26T19:02:45.368Z",
+      "userId": "808279443138543616"
     },
     {
       "ign": "thehonor3done_",
