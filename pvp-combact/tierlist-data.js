@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-26T15:44:38.121Z",
+  "updatedAt": "2026-04-26T15:45:00.060Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -126,12 +126,12 @@ window.TIERLIST_PLAYERS = {
       "ign": "D1NZE",
       "tier": "LT3",
       "region": "EU",
-      "source": "Crystal Ranked",
+      "source": "Tested",
       "userId": "1164936631908835351",
       "username": "d1nzee",
-      "updatedAt": "2026-04-26T15:44:38.100Z",
+      "updatedAt": "2026-04-26T15:45:00.059Z",
       "displayName": "D1NZE",
-      "previousTier": "HT3"
+      "previousTier": "LT3"
     },
     {
       "ign": "Draven8469",
