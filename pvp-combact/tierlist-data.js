@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-26T19:24:22.424Z",
+  "updatedAt": "2026-04-26T20:56:33.254Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -66,6 +66,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-25T16:05:32.371Z",
       "displayName": "l",
       "previousTier": "Migrated"
+    },
+    {
+      "username": "mmooka_",
+      "displayName": "Mooka",
+      "ign": "MookaCat",
+      "tier": "HT3",
+      "previousTier": "Migrated",
+      "region": "EU",
+      "source": "Mctier list",
+      "updatedAt": "2026-04-26T20:56:33.242Z",
+      "userId": "1221770716454584352"
     },
     {
       "ign": "Plsrr",
