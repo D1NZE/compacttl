@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-26T12:49:43.104Z",
+  "updatedAt": "2026-04-26T12:50:26.991Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -184,9 +184,9 @@ window.TIERLIST_PLAYERS = {
       "source": "Forcefully Set",
       "userId": "1164936631908835351",
       "username": "d1nzee",
-      "updatedAt": "2026-04-26T12:49:43.093Z",
+      "updatedAt": "2026-04-26T12:50:26.989Z",
       "displayName": "D1NZE",
-      "previousTier": "LT3"
+      "previousTier": "LT5"
     },
     {
       "ign": "Realrenz",
