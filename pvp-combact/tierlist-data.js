@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-26T00:03:11.168Z",
+  "updatedAt": "2026-04-26T00:50:59.175Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -55,6 +55,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-25T16:05:32.371Z",
       "displayName": "l",
       "previousTier": "Migrated"
+    },
+    {
+      "username": "7cure_",
+      "displayName": "devastated",
+      "ign": "Plsrr",
+      "tier": "HT3",
+      "previousTier": "Set Manually",
+      "region": "NA",
+      "source": "Tested",
+      "updatedAt": "2026-04-26T00:50:59.172Z",
+      "userId": "950215659030208573"
     },
     {
       "ign": "SPOOKYS_",
