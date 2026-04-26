@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-26T16:34:31.214Z",
+  "updatedAt": "2026-04-26T17:17:31.647Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -169,11 +169,11 @@ window.TIERLIST_PLAYERS = {
     {
       "ign": "thehonor3done_",
       "tier": "LT3",
-      "region": "NA",
+      "region": "EU",
       "source": "Tested",
       "userId": "1245829463011364894",
       "username": "thehonor3done_",
-      "updatedAt": "2026-04-26T16:34:31.189Z",
+      "updatedAt": "2026-04-26T17:17:31.636Z",
       "displayName": "𝓣𝓱𝓮𝓗𝓸𝓷𝓸𝓻𝓮𝓭𝓞𝓷𝓮",
       "previousTier": "LT3"
     },
