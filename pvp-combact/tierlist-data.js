@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-27T07:11:51.967Z",
+  "updatedAt": "2026-04-27T11:03:12.492Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -38,12 +38,12 @@ window.TIERLIST_PLAYERS = {
       "ign": "D1NZE",
       "tier": "HT3",
       "region": "EU",
-      "source": "Lurnss Tierlist",
+      "source": "Tested",
       "userId": "1164936631908835351",
       "username": "d1nzee",
-      "updatedAt": "2026-04-26T19:14:26.653Z",
+      "updatedAt": "2026-04-27T11:03:12.490Z",
       "displayName": "D1NZE",
-      "previousTier": "LT3"
+      "previousTier": "Unranked"
     },
     {
       "ign": "draculealol",
@@ -68,15 +68,15 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "Migrated"
     },
     {
-      "username": "mmooka_",
-      "displayName": "Mooka",
       "ign": "MookaCat",
       "tier": "HT3",
-      "previousTier": "Migrated",
       "region": "EU",
       "source": "Mctier list",
+      "userId": "1221770716454584352",
+      "username": "mmooka_",
       "updatedAt": "2026-04-26T20:56:33.242Z",
-      "userId": "1221770716454584352"
+      "displayName": "Mooka",
+      "previousTier": "Migrated"
     },
     {
       "ign": "Plsrr",
@@ -233,15 +233,15 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "Unranked"
     },
     {
-      "username": "bryson_gray",
-      "displayName": "bryson<3",
       "ign": "_Ryze_Cpvp_",
       "tier": "LT5",
-      "previousTier": "LT5",
       "region": "NA",
       "source": "Forcefully Set",
+      "userId": "1293375396699574323",
+      "username": "bryson_gray",
       "updatedAt": "2026-04-27T00:38:07.032Z",
-      "userId": "1293375396699574323"
+      "displayName": "bryson<3",
+      "previousTier": "LT5"
     },
     {
       "ign": ".shyglitches6883",
@@ -277,15 +277,15 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "LT5"
     },
     {
-      "username": "thekonz0530_67466",
-      "displayName": "HYD4RKXX",
       "ign": "Hyd4rkxx",
       "tier": "LT5",
-      "previousTier": "Forcefully Set",
       "region": "AS",
       "source": "Forcefully Set",
+      "userId": "1341684321768964199",
+      "username": "thekonz0530_67466",
       "updatedAt": "2026-04-27T07:11:51.966Z",
-      "userId": "1341684321768964199"
+      "displayName": "HYD4RKXX",
+      "previousTier": "Forcefully Set"
     },
     {
       "ign": "MEOLONGM",
