@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-27T16:42:27.677Z",
+  "updatedAt": "2026-04-27T22:35:37.418Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -231,6 +231,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-25T23:40:37.081Z",
       "displayName": "ItzVlurzz",
       "previousTier": "Unranked"
+    },
+    {
+      "username": "just_ch1llbro",
+      "displayName": "𝔍𝔲𝔰𝔱_ℭ1𝔩𝔩",
+      "ign": "just_ch1llbro",
+      "tier": "LT4",
+      "previousTier": "Migrated",
+      "region": "NA",
+      "source": "Miragrated",
+      "updatedAt": "2026-04-27T22:35:37.416Z",
+      "userId": "1352426286408142900"
     },
     {
       "ign": "_Ryze_Cpvp_",
