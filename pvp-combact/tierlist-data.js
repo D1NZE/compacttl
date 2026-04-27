@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-27T11:03:12.492Z",
+  "updatedAt": "2026-04-27T16:42:27.677Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -330,6 +330,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-23T20:10:37.691Z",
       "displayName": "RONFG7",
       "previousTier": "Unranked"
+    },
+    {
+      "username": "rogue.kira",
+      "displayName": "Kira",
+      "ign": "RogueKira",
+      "tier": "LT5",
+      "previousTier": "Forcefully Set",
+      "region": "EU",
+      "source": "Forcefully Set",
+      "updatedAt": "2026-04-27T16:42:27.669Z",
+      "userId": "865931096893947904"
     },
     {
       "ign": "Furriers",
