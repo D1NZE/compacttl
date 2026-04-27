@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-26T20:56:33.254Z",
+  "updatedAt": "2026-04-27T00:36:22.021Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -231,6 +231,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-25T23:40:37.081Z",
       "displayName": "ItzVlurzz",
       "previousTier": "Unranked"
+    },
+    {
+      "username": "bryson_gray",
+      "displayName": "bryson<3",
+      "ign": "_Ryze_cpvp_",
+      "tier": "LT5",
+      "previousTier": "Forcefully Set",
+      "region": "NA",
+      "source": "Forcefully Set",
+      "updatedAt": "2026-04-27T00:36:22.020Z",
+      "userId": "1293375396699574323"
     },
     {
       "ign": ".shyglitches6883",
