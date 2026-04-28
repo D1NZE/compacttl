@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-28T19:40:59.582Z",
+  "updatedAt": "2026-04-28T19:41:08.385Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -88,6 +88,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-26T00:50:59.172Z",
       "displayName": "devastated",
       "previousTier": "Set Manually"
+    },
+    {
+      "ign": "SPOOKYS_",
+      "tier": "HT3",
+      "region": "NA",
+      "source": "Tested",
+      "userId": "1489915532034445442",
+      "username": "spookys____45497",
+      "updatedAt": "2026-04-28T19:41:08.384Z",
+      "displayName": "Spooky",
+      "previousTier": "LT3"
     },
     {
       "ign": "vibranant",
@@ -187,17 +198,6 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-26T19:02:45.368Z",
       "displayName": "Redz",
       "previousTier": "Migrated"
-    },
-    {
-      "ign": "SPOOKYS_",
-      "tier": "LT3",
-      "region": "NA",
-      "source": "Tested",
-      "userId": "1489915532034445442",
-      "username": "spookys____45497",
-      "updatedAt": "2026-04-28T11:05:33.899Z",
-      "displayName": "Spooky",
-      "previousTier": "HT3"
     },
     {
       "username": "teamedi2",
