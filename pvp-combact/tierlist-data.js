@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-28T19:27:15.915Z",
+  "updatedAt": "2026-04-28T19:39:12.566Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -228,9 +228,9 @@ window.TIERLIST_PLAYERS = {
       "source": "Tested",
       "userId": "1085197066797592636",
       "username": "xabwxmlol",
-      "updatedAt": "2026-04-25T23:40:37.081Z",
+      "updatedAt": "2026-04-28T19:39:12.565Z",
       "displayName": "ItzVlurzz",
-      "previousTier": "Unranked"
+      "previousTier": "HT4"
     },
     {
       "ign": "_Ryze_Cpvp_",
