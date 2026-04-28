@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-28T22:27:10.152Z",
+  "updatedAt": "2026-04-28T22:55:45.897Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -209,6 +209,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-26T19:02:45.368Z",
       "displayName": "Redz",
       "previousTier": "Migrated"
+    },
+    {
+      "username": "star15346",
+      "displayName": "wyaett",
+      "ign": "star15346",
+      "tier": "LT3",
+      "previousTier": "Set Manually",
+      "region": "NA",
+      "source": "Tested",
+      "updatedAt": "2026-04-28T22:55:45.895Z",
+      "userId": "798280273951195148"
     },
     {
       "ign": "Teamedi",
