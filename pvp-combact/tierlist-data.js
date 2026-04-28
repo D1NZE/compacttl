@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-28T19:41:08.385Z",
+  "updatedAt": "2026-04-28T21:04:29.020Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -200,15 +200,15 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "Migrated"
     },
     {
-      "username": "teamedi2",
-      "displayName": "Teamedi",
       "ign": "Teamedi",
       "tier": "LT3",
-      "previousTier": "Migrated",
       "region": "EU",
       "source": "Lurnss Tierlist",
-      "updatedAt": "2026-04-28T19:27:15.913Z",
-      "userId": "1191784531540332595"
+      "userId": "1191784531540332595",
+      "username": "teamedi2",
+      "updatedAt": "2026-04-28T21:04:29.017Z",
+      "displayName": "Teamedi",
+      "previousTier": "Migrated"
     },
     {
       "ign": "TheHonoredOneeee",
