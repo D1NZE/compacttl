@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-27T23:17:34.191Z",
+  "updatedAt": "2026-04-28T10:55:36.749Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -233,17 +233,6 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "Unranked"
     },
     {
-      "username": "just_ch1llbro",
-      "displayName": "𝔍𝔲𝔰𝔱_ℭ1𝔩𝔩",
-      "ign": "just_ch1llbro",
-      "tier": "LT4",
-      "previousTier": "Migrated",
-      "region": "NA",
-      "source": "Miragrated",
-      "updatedAt": "2026-04-27T22:35:37.416Z",
-      "userId": "1352426286408142900"
-    },
-    {
       "ign": "_Ryze_Cpvp_",
       "tier": "LT5",
       "region": "NA",
@@ -374,6 +363,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-23T20:33:31.809Z",
       "displayName": "Alt",
       "previousTier": "HT2"
+    },
+    {
+      "username": "just_ch1llbro",
+      "displayName": "𝔍𝔲𝔰𝔱_ℭ1𝔩𝔩",
+      "ign": "just_ch1llbro",
+      "tier": "Unranked",
+      "previousTier": "LT4",
+      "region": "NA",
+      "source": "Tested",
+      "updatedAt": "2026-04-28T10:55:36.747Z",
+      "userId": "1352426286408142900"
     }
   ]
 };
