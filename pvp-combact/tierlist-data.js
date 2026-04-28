@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-28T10:55:36.749Z",
+  "updatedAt": "2026-04-28T11:05:33.904Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -88,17 +88,6 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-26T00:50:59.172Z",
       "displayName": "devastated",
       "previousTier": "Set Manually"
-    },
-    {
-      "ign": "SPOOKYS_",
-      "tier": "HT3",
-      "region": "NA",
-      "source": "Tested",
-      "userId": "1489915532034445442",
-      "username": "spookys____45497",
-      "updatedAt": "2026-04-24T17:52:30.353Z",
-      "displayName": "S1NZE",
-      "previousTier": "HT4"
     },
     {
       "ign": "vibranant",
@@ -198,6 +187,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-26T19:02:45.368Z",
       "displayName": "Redz",
       "previousTier": "Migrated"
+    },
+    {
+      "ign": "SPOOKYS_",
+      "tier": "LT3",
+      "region": "NA",
+      "source": "Tested",
+      "userId": "1489915532034445442",
+      "username": "spookys____45497",
+      "updatedAt": "2026-04-28T11:05:33.899Z",
+      "displayName": "Spooky",
+      "previousTier": "HT3"
     },
     {
       "ign": "thehonor3done_",
