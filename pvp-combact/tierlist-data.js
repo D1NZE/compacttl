@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-28T11:05:33.904Z",
+  "updatedAt": "2026-04-28T18:28:50.507Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -200,13 +200,13 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "HT3"
     },
     {
-      "ign": "thehonor3done_",
+      "ign": "TheHonoredOneeee",
       "tier": "LT3",
       "region": "EU",
       "source": "Tested",
       "userId": "1245829463011364894",
       "username": "thehonor3done_",
-      "updatedAt": "2026-04-26T17:17:51.556Z",
+      "updatedAt": "2026-04-28T18:28:50.480Z",
       "displayName": "𝓣𝓱𝓮𝓗𝓸𝓷𝓸𝓻𝓮𝓭𝓞𝓷𝓮",
       "previousTier": "LT3"
     },
@@ -310,15 +310,15 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "Forcefully Set"
     },
     {
-      "username": "christung3379",
-      "displayName": "Vidiannewaccount",
       "ign": "mine535hi",
       "tier": "LT5",
-      "previousTier": "LT5",
       "region": "AS",
       "source": "Forcefully Set",
+      "userId": "1013327579509440583",
+      "username": "christung3379",
       "updatedAt": "2026-04-27T23:17:34.189Z",
-      "userId": "1013327579509440583"
+      "displayName": "Vidiannewaccount",
+      "previousTier": "LT5"
     },
     {
       "ign": "p1ae",
@@ -343,15 +343,15 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "Unranked"
     },
     {
-      "username": "rogue.kira",
-      "displayName": "Kira",
       "ign": "RogueKira",
       "tier": "LT5",
-      "previousTier": "Forcefully Set",
       "region": "EU",
       "source": "Forcefully Set",
+      "userId": "865931096893947904",
+      "username": "rogue.kira",
       "updatedAt": "2026-04-27T16:42:27.669Z",
-      "userId": "865931096893947904"
+      "displayName": "Kira",
+      "previousTier": "Forcefully Set"
     },
     {
       "ign": "Furriers",
@@ -365,15 +365,15 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "HT2"
     },
     {
-      "username": "just_ch1llbro",
-      "displayName": "𝔍𝔲𝔰𝔱_ℭ1𝔩𝔩",
       "ign": "just_ch1llbro",
       "tier": "Unranked",
-      "previousTier": "LT4",
       "region": "NA",
       "source": "Tested",
+      "userId": "1352426286408142900",
+      "username": "just_ch1llbro",
       "updatedAt": "2026-04-28T10:55:36.747Z",
-      "userId": "1352426286408142900"
+      "displayName": "𝔍𝔲𝔰𝔱_ℭ1𝔩𝔩",
+      "previousTier": "LT4"
     }
   ]
 };
