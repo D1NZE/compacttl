@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-28T21:04:29.020Z",
+  "updatedAt": "2026-04-28T21:29:50.784Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -27,12 +27,12 @@ window.TIERLIST_PLAYERS = {
       "ign": "4Flure",
       "tier": "HT3",
       "region": "AS",
-      "source": "Tested",
+      "source": "Crystal Ranked",
       "userId": "1452264571967373333",
       "username": "borntobeafailure_0",
-      "updatedAt": "2026-04-25T20:38:24.447Z",
+      "updatedAt": "2026-04-28T21:29:50.780Z",
       "displayName": "4Flure",
-      "previousTier": "LT3"
+      "previousTier": "HT3"
     },
     {
       "ign": "D1NZE",
