@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-29T13:16:09.402Z",
+  "updatedAt": "2026-04-29T13:32:14.616Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -275,6 +275,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-28T19:39:12.565Z",
       "displayName": "ItzVlurzz",
       "previousTier": "HT4"
+    },
+    {
+      "username": "yx78__",
+      "displayName": "yx78",
+      "ign": "yx78",
+      "tier": "HT4",
+      "previousTier": "Unranked",
+      "region": "EU",
+      "source": "Tested",
+      "updatedAt": "2026-04-29T13:32:14.614Z",
+      "userId": "1424129549695844423"
     },
     {
       "username": "alduin_0o",
