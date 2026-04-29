@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-29T13:58:41.908Z",
+  "updatedAt": "2026-04-29T16:44:12.532Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -10,7 +10,8 @@ window.TIERLIST_PLAYERS = {
       "username": ".kamzy1.",
       "updatedAt": "2026-04-25T17:51:14.320Z",
       "displayName": "Kamzy",
-      "previousTier": "Migrated"
+      "previousTier": "Migrated",
+      "gamemode": "Crystal"
     },
     {
       "ign": "Zxny77",
@@ -21,7 +22,8 @@ window.TIERLIST_PLAYERS = {
       "username": "zxny77",
       "updatedAt": "2026-04-24T22:25:58.424Z",
       "displayName": "Zxny77",
-      "previousTier": "HT3"
+      "previousTier": "HT3",
+      "gamemode": "Crystal"
     },
     {
       "ign": "4Flure",
@@ -32,18 +34,8 @@ window.TIERLIST_PLAYERS = {
       "username": "borntobeafailure_0",
       "updatedAt": "2026-04-28T21:29:50.780Z",
       "displayName": "4Flure",
-      "previousTier": "HT3"
-    },
-    {
-      "ign": "D1NZE",
-      "tier": "HT3",
-      "region": "EU",
-      "source": "Tested",
-      "userId": "1164936631908835351",
-      "username": "d1nzee",
-      "updatedAt": "2026-04-29T12:55:43.075Z",
-      "displayName": "D1NZE",
-      "previousTier": "Unranked"
+      "previousTier": "HT3",
+      "gamemode": "Crystal"
     },
     {
       "ign": "draculealol",
@@ -54,7 +46,8 @@ window.TIERLIST_PLAYERS = {
       "username": "draculealol",
       "updatedAt": "2026-04-24T09:12:29.395Z",
       "displayName": "draculealol",
-      "previousTier": "Set Manually"
+      "previousTier": "Set Manually",
+      "gamemode": "Crystal"
     },
     {
       "ign": "helpfulawareness",
@@ -65,7 +58,8 @@ window.TIERLIST_PLAYERS = {
       "username": "laxoooo",
       "updatedAt": "2026-04-25T16:05:32.371Z",
       "displayName": "l",
-      "previousTier": "Migrated"
+      "previousTier": "Migrated",
+      "gamemode": "Crystal"
     },
     {
       "ign": "MookaCat",
@@ -76,7 +70,8 @@ window.TIERLIST_PLAYERS = {
       "username": "mmooka_",
       "updatedAt": "2026-04-26T20:56:33.242Z",
       "displayName": "Mooka",
-      "previousTier": "Migrated"
+      "previousTier": "Migrated",
+      "gamemode": "Crystal"
     },
     {
       "ign": "Plsrr",
@@ -87,7 +82,8 @@ window.TIERLIST_PLAYERS = {
       "username": "7cure_",
       "updatedAt": "2026-04-26T00:50:59.172Z",
       "displayName": "devastated",
-      "previousTier": "Set Manually"
+      "previousTier": "Set Manually",
+      "gamemode": "Crystal"
     },
     {
       "ign": "SPOOKYS_",
@@ -98,7 +94,8 @@ window.TIERLIST_PLAYERS = {
       "username": "spookys____45497",
       "updatedAt": "2026-04-28T19:41:08.384Z",
       "displayName": "Spooky",
-      "previousTier": "LT3"
+      "previousTier": "LT3",
+      "gamemode": "Crystal"
     },
     {
       "ign": "vibranant",
@@ -109,18 +106,20 @@ window.TIERLIST_PLAYERS = {
       "username": "sluggishlol",
       "updatedAt": "2026-04-25T20:45:44.956Z",
       "displayName": "4/29/26",
-      "previousTier": "Migrated"
+      "previousTier": "Migrated",
+      "gamemode": "Crystal"
     },
     {
-      "username": "zxny77newaccount",
-      "displayName": "Zxny77",
       "ign": "zxny77newaccount",
       "tier": "HT3",
-      "previousTier": "Set Manually",
       "region": "NA",
       "source": "Tested",
+      "userId": "1230308573859287050",
+      "username": "zxny77newaccount",
       "updatedAt": "2026-04-28T22:27:10.150Z",
-      "userId": "1230308573859287050"
+      "displayName": "Zxny77",
+      "previousTier": "Set Manually",
+      "gamemode": "Crystal"
     },
     {
       "ign": "AirAnch4r_",
@@ -131,7 +130,8 @@ window.TIERLIST_PLAYERS = {
       "username": "karollvx1",
       "updatedAt": "2026-04-23T15:49:22.772Z",
       "displayName": "C:/ @4 help",
-      "previousTier": "Set Manually"
+      "previousTier": "Set Manually",
+      "gamemode": "Crystal"
     },
     {
       "ign": "azchai",
@@ -142,7 +142,8 @@ window.TIERLIST_PLAYERS = {
       "username": "azchai",
       "updatedAt": "2026-04-25T18:11:45.123Z",
       "displayName": "! 𝙖𝙯𝙘𝙝𝙖𝙞",
-      "previousTier": "Migrated"
+      "previousTier": "Migrated",
+      "gamemode": "Crystal"
     },
     {
       "ign": "BobbyJeff434",
@@ -153,7 +154,8 @@ window.TIERLIST_PLAYERS = {
       "username": "bobby_jeff",
       "updatedAt": "2026-04-25T10:35:20.585Z",
       "displayName": "BobbyJeff",
-      "previousTier": "Migrated"
+      "previousTier": "Migrated",
+      "gamemode": "Crystal"
     },
     {
       "ign": "caddle69",
@@ -164,7 +166,8 @@ window.TIERLIST_PLAYERS = {
       "username": "caddle69",
       "updatedAt": "2026-04-26T19:17:22.532Z",
       "displayName": "caddle69",
-      "previousTier": "LT3"
+      "previousTier": "LT3",
+      "gamemode": "Crystal"
     },
     {
       "ign": "Draven8469",
@@ -175,7 +178,8 @@ window.TIERLIST_PLAYERS = {
       "username": ".wrynd",
       "updatedAt": "2026-04-25T23:03:00.640Z",
       "displayName": "🕸 Spooderguy",
-      "previousTier": "Migrated"
+      "previousTier": "Migrated",
+      "gamemode": "Crystal"
     },
     {
       "ign": "hazeelol",
@@ -186,7 +190,8 @@ window.TIERLIST_PLAYERS = {
       "username": "haze__w",
       "updatedAt": "2026-04-25T22:21:09.708Z",
       "displayName": "Haze",
-      "previousTier": "Migrated"
+      "previousTier": "Migrated",
+      "gamemode": "Crystal"
     },
     {
       "ign": "itszvon",
@@ -197,18 +202,20 @@ window.TIERLIST_PLAYERS = {
       "username": "itszvon",
       "updatedAt": "2026-04-24T00:13:53.546Z",
       "displayName": "itszvon",
-      "previousTier": "Migrated"
+      "previousTier": "Migrated",
+      "gamemode": "Crystal"
     },
     {
-      "username": "oplaza",
-      "displayName": "oPlaza",
       "ign": "oPlaza",
       "tier": "LT3",
-      "previousTier": "Unranked",
       "region": "EU",
       "source": "Tested",
+      "userId": "680843205415272522",
+      "username": "oplaza",
       "updatedAt": "2026-04-29T13:16:09.400Z",
-      "userId": "680843205415272522"
+      "displayName": "oPlaza",
+      "previousTier": "Unranked",
+      "gamemode": "Crystal"
     },
     {
       "ign": "Reddism",
@@ -219,18 +226,20 @@ window.TIERLIST_PLAYERS = {
       "username": "puz8",
       "updatedAt": "2026-04-26T19:02:45.368Z",
       "displayName": "Redz",
-      "previousTier": "Migrated"
+      "previousTier": "Migrated",
+      "gamemode": "Crystal"
     },
     {
-      "username": "star15346",
-      "displayName": "wyaett",
       "ign": "star15346",
       "tier": "LT3",
-      "previousTier": "Set Manually",
       "region": "NA",
       "source": "Tested",
+      "userId": "798280273951195148",
+      "username": "star15346",
       "updatedAt": "2026-04-28T22:55:45.895Z",
-      "userId": "798280273951195148"
+      "displayName": "wyaett",
+      "previousTier": "Set Manually",
+      "gamemode": "Crystal"
     },
     {
       "ign": "Teamedi",
@@ -241,7 +250,8 @@ window.TIERLIST_PLAYERS = {
       "username": "teamedi2",
       "updatedAt": "2026-04-28T21:04:29.017Z",
       "displayName": "Teamedi",
-      "previousTier": "Migrated"
+      "previousTier": "Migrated",
+      "gamemode": "Crystal"
     },
     {
       "ign": "TheHonoredOneeee",
@@ -252,7 +262,8 @@ window.TIERLIST_PLAYERS = {
       "username": "thehonor3done_",
       "updatedAt": "2026-04-28T18:28:50.480Z",
       "displayName": "𝓣𝓱𝓮𝓗𝓸𝓷𝓸𝓻𝓮𝓭𝓞𝓷𝓮",
-      "previousTier": "LT3"
+      "previousTier": "LT3",
+      "gamemode": "Crystal"
     },
     {
       "ign": "ThekingOfcpvp",
@@ -263,7 +274,8 @@ window.TIERLIST_PLAYERS = {
       "username": "nolimitblock_28207",
       "updatedAt": "2026-04-26T19:24:22.414Z",
       "displayName": "lrert",
-      "previousTier": "LT3"
+      "previousTier": "LT3",
+      "gamemode": "Crystal"
     },
     {
       "ign": "xabwxmlol",
@@ -274,18 +286,32 @@ window.TIERLIST_PLAYERS = {
       "username": "xabwxmlol",
       "updatedAt": "2026-04-28T19:39:12.565Z",
       "displayName": "ItzVlurzz",
-      "previousTier": "HT4"
+      "previousTier": "HT4",
+      "gamemode": "Crystal"
     },
     {
-      "username": "alduin_0o",
-      "displayName": "alduin_0o",
-      "ign": "Alduin0o",
-      "tier": "HT5",
-      "previousTier": "Unranked",
+      "ign": "D1NZE",
+      "tier": "LT4",
       "region": "EU",
       "source": "Tested",
+      "userId": "1164936631908835351",
+      "username": "d1nzee",
+      "updatedAt": "2026-04-29T16:44:12.530Z",
+      "displayName": "D1NZE",
+      "previousTier": "HT3",
+      "gamemode": "Sword"
+    },
+    {
+      "ign": "Alduin0o",
+      "tier": "HT5",
+      "region": "EU",
+      "source": "Tested",
+      "userId": "1249801850253742185",
+      "username": "alduin_0o",
       "updatedAt": "2026-04-29T13:10:08.995Z",
-      "userId": "1249801850253742185"
+      "displayName": "alduin_0o",
+      "previousTier": "Unranked",
+      "gamemode": "Crystal"
     },
     {
       "ign": "_Ryze_Cpvp_",
@@ -296,7 +322,8 @@ window.TIERLIST_PLAYERS = {
       "username": "bryson_gray",
       "updatedAt": "2026-04-27T00:38:07.032Z",
       "displayName": "bryson<3",
-      "previousTier": "LT5"
+      "previousTier": "LT5",
+      "gamemode": "Crystal"
     },
     {
       "ign": ".shyglitches6883",
@@ -307,7 +334,8 @@ window.TIERLIST_PLAYERS = {
       "username": ".drdonot",
       "updatedAt": "2026-04-26T13:17:03.251Z",
       "displayName": "[Owner] shyglitches bedrock",
-      "previousTier": "Forcefully Set"
+      "previousTier": "Forcefully Set",
+      "gamemode": "Crystal"
     },
     {
       "ign": "ChrisGamingYTT",
@@ -318,7 +346,8 @@ window.TIERLIST_PLAYERS = {
       "username": "chrisgamingytt",
       "updatedAt": "2026-04-26T13:00:30.589Z",
       "displayName": "ChrisGamingYTT",
-      "previousTier": "LT5"
+      "previousTier": "LT5",
+      "gamemode": "Crystal"
     },
     {
       "ign": "FrostyFFA",
@@ -329,7 +358,8 @@ window.TIERLIST_PLAYERS = {
       "username": "mihai_eminescu",
       "updatedAt": "2026-04-26T18:39:40.839Z",
       "displayName": "GenuxXD",
-      "previousTier": "LT5"
+      "previousTier": "LT5",
+      "gamemode": "Crystal"
     },
     {
       "ign": "Hyd4rkxx",
@@ -340,7 +370,8 @@ window.TIERLIST_PLAYERS = {
       "username": "thekonz0530_67466",
       "updatedAt": "2026-04-27T07:11:51.966Z",
       "displayName": "HYD4RKXX",
-      "previousTier": "Forcefully Set"
+      "previousTier": "Forcefully Set",
+      "gamemode": "Crystal"
     },
     {
       "ign": "MEOLONGM",
@@ -351,7 +382,8 @@ window.TIERLIST_PLAYERS = {
       "username": "truongvatan",
       "updatedAt": "2026-04-26T12:55:20.229Z",
       "displayName": "Hine",
-      "previousTier": "Forcefully Set"
+      "previousTier": "Forcefully Set",
+      "gamemode": "Crystal"
     },
     {
       "ign": "mercitee",
@@ -362,7 +394,8 @@ window.TIERLIST_PLAYERS = {
       "username": "mercitee",
       "updatedAt": "2026-04-26T12:54:18.472Z",
       "displayName": "merce",
-      "previousTier": "Forcefully Set"
+      "previousTier": "Forcefully Set",
+      "gamemode": "Crystal"
     },
     {
       "ign": "mine535hi",
@@ -373,7 +406,8 @@ window.TIERLIST_PLAYERS = {
       "username": "christung3379",
       "updatedAt": "2026-04-27T23:17:34.189Z",
       "displayName": "Vidiannewaccount",
-      "previousTier": "LT5"
+      "previousTier": "LT5",
+      "gamemode": "Crystal"
     },
     {
       "ign": "p1ae",
@@ -384,7 +418,8 @@ window.TIERLIST_PLAYERS = {
       "username": "0eyp",
       "updatedAt": "2026-04-26T13:41:10.118Z",
       "displayName": "𝐏𝟏ΛΣ",
-      "previousTier": "Forcefully Set"
+      "previousTier": "Forcefully Set",
+      "gamemode": "Crystal"
     },
     {
       "ign": "Realrenz",
@@ -395,7 +430,8 @@ window.TIERLIST_PLAYERS = {
       "username": "fg7_goat",
       "updatedAt": "2026-04-23T20:10:37.691Z",
       "displayName": "RONFG7",
-      "previousTier": "Unranked"
+      "previousTier": "Unranked",
+      "gamemode": "Crystal"
     },
     {
       "ign": "RogueKira",
@@ -406,18 +442,20 @@ window.TIERLIST_PLAYERS = {
       "username": "rogue.kira",
       "updatedAt": "2026-04-27T16:42:27.669Z",
       "displayName": "Kira",
-      "previousTier": "Forcefully Set"
+      "previousTier": "Forcefully Set",
+      "gamemode": "Crystal"
     },
     {
-      "username": "243x_",
-      "displayName": "vinny",
       "ign": "243x_",
       "tier": "Unranked",
-      "previousTier": "HT1",
       "region": "EU",
       "source": "Tested",
+      "userId": "1139144754991480922",
+      "username": "243x_",
       "updatedAt": "2026-04-29T12:44:00.412Z",
-      "userId": "1139144754991480922"
+      "displayName": "vinny",
+      "previousTier": "HT1",
+      "gamemode": "Crystal"
     },
     {
       "ign": "Furriers",
@@ -428,7 +466,8 @@ window.TIERLIST_PLAYERS = {
       "username": "applepvp.com",
       "updatedAt": "2026-04-23T20:33:31.809Z",
       "displayName": "Alt",
-      "previousTier": "HT2"
+      "previousTier": "HT2",
+      "gamemode": "Crystal"
     },
     {
       "ign": "just_ch1llbro",
@@ -439,7 +478,8 @@ window.TIERLIST_PLAYERS = {
       "username": "just_ch1llbro",
       "updatedAt": "2026-04-28T10:55:36.747Z",
       "displayName": "𝔍𝔲𝔰𝔱_ℭ1𝔩𝔩",
-      "previousTier": "LT4"
+      "previousTier": "LT4",
+      "gamemode": "Crystal"
     }
   ]
 };
