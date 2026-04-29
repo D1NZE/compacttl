@@ -1,6 +1,17 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-28T22:55:45.897Z",
+  "updatedAt": "2026-04-29T12:43:41.663Z",
   "players": [
+    {
+      "username": "243x_",
+      "displayName": "vinny",
+      "ign": "243x_",
+      "tier": "HT1",
+      "previousTier": "Set Manually",
+      "region": "EU",
+      "source": "Tested",
+      "updatedAt": "2026-04-29T12:43:41.657Z",
+      "userId": "1139144754991480922"
+    },
     {
       "ign": "Kamzy1",
       "tier": "LT2",
