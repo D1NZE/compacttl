@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-29T12:55:43.078Z",
+  "updatedAt": "2026-04-29T13:10:08.998Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -264,6 +264,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-28T19:39:12.565Z",
       "displayName": "ItzVlurzz",
       "previousTier": "HT4"
+    },
+    {
+      "username": "alduin_0o",
+      "displayName": "alduin_0o",
+      "ign": "Alduin0o",
+      "tier": "HT5",
+      "previousTier": "Unranked",
+      "region": "EU",
+      "source": "Tested",
+      "updatedAt": "2026-04-29T13:10:08.995Z",
+      "userId": "1249801850253742185"
     },
     {
       "ign": "_Ryze_Cpvp_",
