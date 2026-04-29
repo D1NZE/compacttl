@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-29T22:55:47.267Z",
+  "updatedAt": "2026-04-29T22:57:14.186Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -616,6 +616,21 @@ window.TIERLIST_PLAYERS = {
       "modes": {
         "Crystal": "Unranked"
       }
+    },
+    {
+      "username": "mateoistired2",
+      "displayName": "FrameGame",
+      "ign": "NoLimitWalksy",
+      "region": "EU",
+      "source": "Tested",
+      "updatedAt": "2026-04-29T22:57:14.184Z",
+      "tier": "Unranked",
+      "previousTier": "Set Manually",
+      "gamemode": "Crystal",
+      "modes": {
+        "Crystal": "Unranked"
+      },
+      "userId": "1209508806984339456"
     }
   ]
 };
