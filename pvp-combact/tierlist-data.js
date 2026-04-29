@@ -1,17 +1,6 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-29T12:43:41.663Z",
+  "updatedAt": "2026-04-29T12:44:00.415Z",
   "players": [
-    {
-      "username": "243x_",
-      "displayName": "vinny",
-      "ign": "243x_",
-      "tier": "HT1",
-      "previousTier": "Set Manually",
-      "region": "EU",
-      "source": "Tested",
-      "updatedAt": "2026-04-29T12:43:41.657Z",
-      "userId": "1139144754991480922"
-    },
     {
       "ign": "Kamzy1",
       "tier": "LT2",
@@ -396,6 +385,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-27T16:42:27.669Z",
       "displayName": "Kira",
       "previousTier": "Forcefully Set"
+    },
+    {
+      "username": "243x_",
+      "displayName": "vinny",
+      "ign": "243x_",
+      "tier": "Unranked",
+      "previousTier": "HT1",
+      "region": "EU",
+      "source": "Tested",
+      "updatedAt": "2026-04-29T12:44:00.412Z",
+      "userId": "1139144754991480922"
     },
     {
       "ign": "Furriers",
