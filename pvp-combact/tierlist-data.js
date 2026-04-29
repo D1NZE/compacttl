@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-29T13:10:08.998Z",
+  "updatedAt": "2026-04-29T13:16:09.402Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -198,6 +198,17 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-24T00:13:53.546Z",
       "displayName": "itszvon",
       "previousTier": "Migrated"
+    },
+    {
+      "username": "oplaza",
+      "displayName": "oPlaza",
+      "ign": "oPlaza",
+      "tier": "LT3",
+      "previousTier": "Unranked",
+      "region": "EU",
+      "source": "Tested",
+      "updatedAt": "2026-04-29T13:16:09.400Z",
+      "userId": "680843205415272522"
     },
     {
       "ign": "Reddism",
