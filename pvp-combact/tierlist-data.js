@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-29T16:57:43.010Z",
+  "updatedAt": "2026-04-29T17:09:12.811Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -273,21 +273,6 @@ window.TIERLIST_PLAYERS = {
       }
     },
     {
-      "username": "minecraft2gods",
-      "displayName": "Dallas",
-      "ign": "minecraft2gods",
-      "region": "EU",
-      "source": "Tested",
-      "updatedAt": "2026-04-29T16:57:43.008Z",
-      "tier": "LT3",
-      "previousTier": "Set Manually",
-      "gamemode": "Crystal",
-      "modes": {
-        "Crystal": "LT3"
-      },
-      "userId": "1380529035981094932"
-    },
-    {
       "ign": "oPlaza",
       "tier": "LT3",
       "region": "EU",
@@ -391,6 +376,21 @@ window.TIERLIST_PLAYERS = {
       "modes": {
         "Crystal": "HT4"
       }
+    },
+    {
+      "username": "minecraft2gods",
+      "displayName": "Dallas",
+      "ign": "K1RBEPVP",
+      "region": "EU",
+      "source": "Tested",
+      "updatedAt": "2026-04-29T17:09:12.810Z",
+      "tier": "LT4",
+      "previousTier": "Unranked",
+      "gamemode": "Crystal",
+      "modes": {
+        "Crystal": "LT4"
+      },
+      "userId": "1380529035981094932"
     },
     {
       "ign": "Alduin0o",
