@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-29T16:51:55.121Z",
+  "updatedAt": "2026-04-29T16:57:43.010Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -271,6 +271,21 @@ window.TIERLIST_PLAYERS = {
       "modes": {
         "Crystal": "LT3"
       }
+    },
+    {
+      "username": "minecraft2gods",
+      "displayName": "Dallas",
+      "ign": "minecraft2gods",
+      "region": "EU",
+      "source": "Tested",
+      "updatedAt": "2026-04-29T16:57:43.008Z",
+      "tier": "LT3",
+      "previousTier": "Set Manually",
+      "gamemode": "Crystal",
+      "modes": {
+        "Crystal": "LT3"
+      },
+      "userId": "1380529035981094932"
     },
     {
       "ign": "oPlaza",
