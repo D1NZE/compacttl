@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-30T13:16:41.884Z",
+  "updatedAt": "2026-04-30T14:59:09.207Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -214,6 +214,10 @@ window.TIERLIST_PLAYERS = {
     {
       "ign": "D1NZE",
       "tier": "LT3",
+      "modes": {
+        "Sword": "LT4",
+        "Crystal": "LT3"
+      },
       "region": "EU",
       "source": "Tested",
       "userId": "1164936631908835351",
@@ -221,11 +225,7 @@ window.TIERLIST_PLAYERS = {
       "username": "d1nzee",
       "updatedAt": "2026-04-29T16:51:55.118Z",
       "displayName": "D1NZE",
-      "previousTier": "HT3",
-      "modes": {
-        "Sword": "LT4",
-        "Crystal": "LT3"
-      }
+      "previousTier": "HT3"
     },
     {
       "ign": "Draven8469",
@@ -378,19 +378,19 @@ window.TIERLIST_PLAYERS = {
       }
     },
     {
-      "username": "minecraft2gods",
-      "displayName": "Dallas",
       "ign": "K1RBEPVP",
-      "region": "EU",
-      "source": "Tested",
-      "updatedAt": "2026-04-29T17:09:12.810Z",
       "tier": "LT4",
-      "previousTier": "Unranked",
-      "gamemode": "Crystal",
       "modes": {
         "Crystal": "LT4"
       },
-      "userId": "1380529035981094932"
+      "region": "EU",
+      "source": "Tested",
+      "userId": "1380529035981094932",
+      "gamemode": "Crystal",
+      "username": "minecraft2gods",
+      "updatedAt": "2026-04-29T17:09:12.810Z",
+      "displayName": "Dallas",
+      "previousTier": "Unranked"
     },
     {
       "ign": "Alduin0o",
@@ -406,6 +406,21 @@ window.TIERLIST_PLAYERS = {
       "modes": {
         "Crystal": "HT5"
       }
+    },
+    {
+      "username": "dripminer",
+      "displayName": "DripMiner",
+      "ign": "Dripminer",
+      "region": "EU",
+      "source": "Tested",
+      "updatedAt": "2026-04-30T14:59:09.205Z",
+      "tier": "HT5",
+      "previousTier": "Unranked",
+      "gamemode": "Crystal",
+      "modes": {
+        "Crystal": "HT5"
+      },
+      "userId": "1220738242719125527"
     },
     {
       "ign": "_Ryze_Cpvp_",
@@ -618,19 +633,19 @@ window.TIERLIST_PLAYERS = {
       }
     },
     {
-      "username": "mateoistired2",
-      "displayName": "FrameGame",
       "ign": "NoLimitWalksy",
-      "region": "EU",
-      "source": "Tested",
-      "updatedAt": "2026-04-29T22:57:14.184Z",
       "tier": "Unranked",
-      "previousTier": "Set Manually",
-      "gamemode": "Crystal",
       "modes": {
         "Crystal": "Unranked"
       },
-      "userId": "1209508806984339456"
+      "region": "EU",
+      "source": "Tested",
+      "userId": "1209508806984339456",
+      "gamemode": "Crystal",
+      "username": "mateoistired2",
+      "updatedAt": "2026-04-29T22:57:14.184Z",
+      "displayName": "FrameGame",
+      "previousTier": "Set Manually"
     }
   ]
 };
