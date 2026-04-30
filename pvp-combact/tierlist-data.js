@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-30T17:43:49.678Z",
+  "updatedAt": "2026-04-30T19:52:53.767Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -483,6 +483,21 @@ window.TIERLIST_PLAYERS = {
       }
     },
     {
+      "username": "cityblox",
+      "displayName": "CityBlox",
+      "ign": "Matti130112_",
+      "region": "EU",
+      "source": "Tested",
+      "updatedAt": "2026-04-30T19:52:53.764Z",
+      "tier": "LT5",
+      "previousTier": "Unranked",
+      "gamemode": "Crystal",
+      "modes": {
+        "Crystal": "LT5"
+      },
+      "userId": "1408456632643621025"
+    },
+    {
       "ign": "MEOLONGM",
       "tier": "LT5",
       "region": "NA",
@@ -635,17 +650,17 @@ window.TIERLIST_PLAYERS = {
     {
       "ign": "zxny77newaccount",
       "tier": "Unranked",
+      "modes": {
+        "Crystal": "Unranked"
+      },
       "region": "NA",
       "source": "Tested",
       "userId": "1230308573859287050",
+      "gamemode": "Crystal",
       "username": "zxny77newaccount",
       "updatedAt": "2026-04-30T17:43:49.673Z",
       "displayName": "Zxny77 #Kindness",
-      "previousTier": "HT3",
-      "gamemode": "Crystal",
-      "modes": {
-        "Crystal": "Unranked"
-      }
+      "previousTier": "HT3"
     }
   ]
 };
