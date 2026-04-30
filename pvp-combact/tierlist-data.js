@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-30T19:52:53.767Z",
+  "updatedAt": "2026-04-30T22:33:16.382Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -348,21 +348,6 @@ window.TIERLIST_PLAYERS = {
       }
     },
     {
-      "ign": "xabwxmlol",
-      "tier": "HT4",
-      "region": "NA",
-      "source": "Tested",
-      "userId": "1085197066797592636",
-      "username": "xabwxmlol",
-      "updatedAt": "2026-04-28T19:39:12.565Z",
-      "displayName": "ItzVlurzz",
-      "previousTier": "HT4",
-      "gamemode": "Crystal",
-      "modes": {
-        "Crystal": "HT4"
-      }
-    },
-    {
       "ign": "K1RBEPVP",
       "tier": "LT4",
       "modes": {
@@ -376,6 +361,21 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-29T17:09:12.810Z",
       "displayName": "Dallas",
       "previousTier": "Unranked"
+    },
+    {
+      "ign": "xabwxmlol",
+      "tier": "LT4",
+      "region": "NA",
+      "source": "Tested",
+      "userId": "1085197066797592636",
+      "username": "xabwxmlol",
+      "updatedAt": "2026-04-30T22:33:16.381Z",
+      "displayName": "xabwxmlol",
+      "previousTier": "HT4",
+      "gamemode": "Crystal",
+      "modes": {
+        "Crystal": "LT4"
+      }
     },
     {
       "ign": "Alduin0o",
@@ -483,19 +483,19 @@ window.TIERLIST_PLAYERS = {
       }
     },
     {
-      "username": "cityblox",
-      "displayName": "CityBlox",
       "ign": "Matti130112_",
-      "region": "EU",
-      "source": "Tested",
-      "updatedAt": "2026-04-30T19:52:53.764Z",
       "tier": "LT5",
-      "previousTier": "Unranked",
-      "gamemode": "Crystal",
       "modes": {
         "Crystal": "LT5"
       },
-      "userId": "1408456632643621025"
+      "region": "EU",
+      "source": "Tested",
+      "userId": "1408456632643621025",
+      "gamemode": "Crystal",
+      "username": "cityblox",
+      "updatedAt": "2026-04-30T19:52:53.764Z",
+      "displayName": "CityBlox",
+      "previousTier": "Unranked"
     },
     {
       "ign": "MEOLONGM",
@@ -586,81 +586,6 @@ window.TIERLIST_PLAYERS = {
       "modes": {
         "Crystal": "LT5"
       }
-    },
-    {
-      "ign": "243x_",
-      "tier": "Unranked",
-      "region": "EU",
-      "source": "Tested",
-      "userId": "1139144754991480922",
-      "username": "243x_",
-      "updatedAt": "2026-04-29T12:44:00.412Z",
-      "displayName": "vinny",
-      "previousTier": "HT1",
-      "gamemode": "Crystal",
-      "modes": {
-        "Crystal": "Unranked"
-      }
-    },
-    {
-      "ign": "Furriers",
-      "tier": "Unranked",
-      "region": "EU",
-      "source": "Tested",
-      "userId": "1491966256406855700",
-      "username": "applepvp.com",
-      "updatedAt": "2026-04-23T20:33:31.809Z",
-      "displayName": "Alt",
-      "previousTier": "HT2",
-      "gamemode": "Crystal",
-      "modes": {
-        "Crystal": "Unranked"
-      }
-    },
-    {
-      "ign": "just_ch1llbro",
-      "tier": "Unranked",
-      "region": "NA",
-      "source": "Tested",
-      "userId": "1352426286408142900",
-      "username": "just_ch1llbro",
-      "updatedAt": "2026-04-28T10:55:36.747Z",
-      "displayName": "𝔍𝔲𝔰𝔱_ℭ1𝔩𝔩",
-      "previousTier": "LT4",
-      "gamemode": "Crystal",
-      "modes": {
-        "Crystal": "Unranked"
-      }
-    },
-    {
-      "ign": "NoLimitWalksy",
-      "tier": "Unranked",
-      "modes": {
-        "Crystal": "Unranked"
-      },
-      "region": "EU",
-      "source": "Tested",
-      "userId": "1209508806984339456",
-      "gamemode": "Crystal",
-      "username": "mateoistired2",
-      "updatedAt": "2026-04-29T22:57:14.184Z",
-      "displayName": "FrameGame",
-      "previousTier": "Set Manually"
-    },
-    {
-      "ign": "zxny77newaccount",
-      "tier": "Unranked",
-      "modes": {
-        "Crystal": "Unranked"
-      },
-      "region": "NA",
-      "source": "Tested",
-      "userId": "1230308573859287050",
-      "gamemode": "Crystal",
-      "username": "zxny77newaccount",
-      "updatedAt": "2026-04-30T17:43:49.673Z",
-      "displayName": "Zxny77 #Kindness",
-      "previousTier": "HT3"
     }
   ]
 };
