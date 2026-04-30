@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-30T22:33:16.382Z",
+  "updatedAt": "2026-04-30T22:37:24.335Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -213,6 +213,21 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "HT3"
     },
     {
+      "ign": "d1nzefan",
+      "tier": "LT3",
+      "region": "EU",
+      "source": "Mctier list",
+      "userId": "1450515261240377415",
+      "username": "nolimitblock_28207",
+      "updatedAt": "2026-04-30T22:37:24.331Z",
+      "displayName": "SCRXZ",
+      "previousTier": "LT3",
+      "gamemode": "Crystal",
+      "modes": {
+        "Crystal": "LT3"
+      }
+    },
+    {
       "ign": "Draven8469",
       "tier": "LT3",
       "region": "NA",
@@ -326,21 +341,6 @@ window.TIERLIST_PLAYERS = {
       "username": "thehonor3done_",
       "updatedAt": "2026-04-28T18:28:50.480Z",
       "displayName": "𝓣𝓱𝓮𝓗𝓸𝓷𝓸𝓻𝓮𝓭𝓞𝓷𝓮",
-      "previousTier": "LT3",
-      "gamemode": "Crystal",
-      "modes": {
-        "Crystal": "LT3"
-      }
-    },
-    {
-      "ign": "theworstcpvp",
-      "tier": "LT3",
-      "region": "AS",
-      "source": "Mctier list",
-      "userId": "1450515261240377415",
-      "username": "nolimitblock_28207",
-      "updatedAt": "2026-04-30T13:16:41.878Z",
-      "displayName": "SCRXZ",
       "previousTier": "LT3",
       "gamemode": "Crystal",
       "modes": {
