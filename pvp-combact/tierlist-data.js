@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-29T22:57:14.186Z",
+  "updatedAt": "2026-04-30T13:16:41.884Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -348,14 +348,14 @@ window.TIERLIST_PLAYERS = {
       }
     },
     {
-      "ign": "ThekingOfcpvp",
+      "ign": "theworstcpvp",
       "tier": "LT3",
-      "region": "EU",
+      "region": "AS",
       "source": "Mctier list",
       "userId": "1450515261240377415",
       "username": "nolimitblock_28207",
-      "updatedAt": "2026-04-26T19:24:22.414Z",
-      "displayName": "lrert",
+      "updatedAt": "2026-04-30T13:16:41.878Z",
+      "displayName": "SCRXZ",
       "previousTier": "LT3",
       "gamemode": "Crystal",
       "modes": {
