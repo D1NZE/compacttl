@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-30T14:59:09.207Z",
+  "updatedAt": "2026-04-30T17:43:49.678Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -131,21 +131,6 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-25T20:45:44.956Z",
       "displayName": "4/29/26",
       "previousTier": "Migrated",
-      "gamemode": "Crystal",
-      "modes": {
-        "Crystal": "HT3"
-      }
-    },
-    {
-      "ign": "zxny77newaccount",
-      "tier": "HT3",
-      "region": "NA",
-      "source": "Tested",
-      "userId": "1230308573859287050",
-      "username": "zxny77newaccount",
-      "updatedAt": "2026-04-28T22:27:10.150Z",
-      "displayName": "Zxny77",
-      "previousTier": "Set Manually",
       "gamemode": "Crystal",
       "modes": {
         "Crystal": "HT3"
@@ -408,19 +393,19 @@ window.TIERLIST_PLAYERS = {
       }
     },
     {
-      "username": "dripminer",
-      "displayName": "DripMiner",
       "ign": "Dripminer",
-      "region": "EU",
-      "source": "Tested",
-      "updatedAt": "2026-04-30T14:59:09.205Z",
       "tier": "HT5",
-      "previousTier": "Unranked",
-      "gamemode": "Crystal",
       "modes": {
         "Crystal": "HT5"
       },
-      "userId": "1220738242719125527"
+      "region": "EU",
+      "source": "Tested",
+      "userId": "1220738242719125527",
+      "gamemode": "Crystal",
+      "username": "dripminer",
+      "updatedAt": "2026-04-30T14:59:09.205Z",
+      "displayName": "DripMiner",
+      "previousTier": "Unranked"
     },
     {
       "ign": "_Ryze_Cpvp_",
@@ -646,6 +631,21 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-29T22:57:14.184Z",
       "displayName": "FrameGame",
       "previousTier": "Set Manually"
+    },
+    {
+      "ign": "zxny77newaccount",
+      "tier": "Unranked",
+      "region": "NA",
+      "source": "Tested",
+      "userId": "1230308573859287050",
+      "username": "zxny77newaccount",
+      "updatedAt": "2026-04-30T17:43:49.673Z",
+      "displayName": "Zxny77 #Kindness",
+      "previousTier": "HT3",
+      "gamemode": "Crystal",
+      "modes": {
+        "Crystal": "Unranked"
+      }
     }
   ]
 };
