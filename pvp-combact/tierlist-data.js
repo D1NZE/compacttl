@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-30T22:37:24.335Z",
+  "updatedAt": "2026-04-30T22:37:32.363Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -215,11 +215,11 @@ window.TIERLIST_PLAYERS = {
     {
       "ign": "d1nzefan",
       "tier": "LT3",
-      "region": "EU",
+      "region": "NA",
       "source": "Mctier list",
       "userId": "1450515261240377415",
       "username": "nolimitblock_28207",
-      "updatedAt": "2026-04-30T22:37:24.331Z",
+      "updatedAt": "2026-04-30T22:37:32.361Z",
       "displayName": "SCRXZ",
       "previousTier": "LT3",
       "gamemode": "Crystal",
