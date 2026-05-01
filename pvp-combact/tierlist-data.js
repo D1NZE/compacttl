@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-04-30T22:37:32.363Z",
+  "updatedAt": "2026-05-01T00:39:59.732Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -365,17 +365,17 @@ window.TIERLIST_PLAYERS = {
     {
       "ign": "xabwxmlol",
       "tier": "LT4",
+      "modes": {
+        "Crystal": "LT4"
+      },
       "region": "NA",
       "source": "Tested",
       "userId": "1085197066797592636",
+      "gamemode": "Crystal",
       "username": "xabwxmlol",
       "updatedAt": "2026-04-30T22:33:16.381Z",
       "displayName": "xabwxmlol",
-      "previousTier": "HT4",
-      "gamemode": "Crystal",
-      "modes": {
-        "Crystal": "LT4"
-      }
+      "previousTier": "HT4"
     },
     {
       "ign": "Alduin0o",
@@ -406,6 +406,21 @@ window.TIERLIST_PLAYERS = {
       "updatedAt": "2026-04-30T14:59:09.205Z",
       "displayName": "DripMiner",
       "previousTier": "Unranked"
+    },
+    {
+      "username": "benbenkim2011",
+      "displayName": "Benagoodboylately",
+      "ign": "seoulmandude",
+      "region": "NA",
+      "source": "Tested",
+      "updatedAt": "2026-05-01T00:39:59.729Z",
+      "tier": "HT5",
+      "previousTier": "Unranked",
+      "gamemode": "Crystal",
+      "modes": {
+        "Crystal": "HT5"
+      },
+      "userId": "1251719158475919481"
     },
     {
       "ign": "_Ryze_Cpvp_",
