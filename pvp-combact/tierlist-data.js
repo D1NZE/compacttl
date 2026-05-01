@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-05-01T00:39:59.732Z",
+  "updatedAt": "2026-05-01T14:10:28.283Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -215,11 +215,11 @@ window.TIERLIST_PLAYERS = {
     {
       "ign": "d1nzefan",
       "tier": "LT3",
-      "region": "NA",
+      "region": "EU",
       "source": "Mctier list",
       "userId": "1450515261240377415",
       "username": "nolimitblock_28207",
-      "updatedAt": "2026-04-30T22:37:32.361Z",
+      "updatedAt": "2026-05-01T14:10:28.280Z",
       "displayName": "SCRXZ",
       "previousTier": "LT3",
       "gamemode": "Crystal",
@@ -408,19 +408,19 @@ window.TIERLIST_PLAYERS = {
       "previousTier": "Unranked"
     },
     {
-      "username": "benbenkim2011",
-      "displayName": "Benagoodboylately",
       "ign": "seoulmandude",
-      "region": "NA",
-      "source": "Tested",
-      "updatedAt": "2026-05-01T00:39:59.729Z",
       "tier": "HT5",
-      "previousTier": "Unranked",
-      "gamemode": "Crystal",
       "modes": {
         "Crystal": "HT5"
       },
-      "userId": "1251719158475919481"
+      "region": "NA",
+      "source": "Tested",
+      "userId": "1251719158475919481",
+      "gamemode": "Crystal",
+      "username": "benbenkim2011",
+      "updatedAt": "2026-05-01T00:39:59.729Z",
+      "displayName": "Benagoodboylately",
+      "previousTier": "Unranked"
     },
     {
       "ign": "_Ryze_Cpvp_",
