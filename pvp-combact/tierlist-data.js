@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-05-02T17:17:59.038Z",
+  "updatedAt": "2026-05-02T17:18:12.189Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -578,7 +578,7 @@ window.TIERLIST_PLAYERS = {
       "ign": "padremcc",
       "region": "AS",
       "source": "Forcefully Set",
-      "updatedAt": "2026-05-02T17:17:59.034Z",
+      "updatedAt": "2026-05-02T17:18:12.185Z",
       "tier": "LT5",
       "previousTier": "Forcefully Set",
       "gamemode": "Crystal",
