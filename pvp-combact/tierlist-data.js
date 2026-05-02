@@ -1,5 +1,5 @@
 window.TIERLIST_PLAYERS = {
-  "updatedAt": "2026-05-01T14:10:28.283Z",
+  "updatedAt": "2026-05-02T17:17:59.038Z",
   "players": [
     {
       "ign": "Kamzy1",
@@ -571,6 +571,21 @@ window.TIERLIST_PLAYERS = {
       "modes": {
         "Crystal": "LT5"
       }
+    },
+    {
+      "username": "padre01506",
+      "displayName": "Padre",
+      "ign": "padremcc",
+      "region": "AS",
+      "source": "Forcefully Set",
+      "updatedAt": "2026-05-02T17:17:59.034Z",
+      "tier": "LT5",
+      "previousTier": "Forcefully Set",
+      "gamemode": "Crystal",
+      "modes": {
+        "Crystal": "LT5"
+      },
+      "userId": "1499071124808667196"
     },
     {
       "ign": "Realrenz",
